@@ -1,6 +1,6 @@
 baseURL = "https://fr.shoogle.net/champagne-ardenne"
 languageCode = "fr"
-title = "Champagne-Ardenne"
+title = "Champagne Ardenne"
 theme = "ln-base"
 
 disableKinds = ["RSS", "robotsTXT"]
