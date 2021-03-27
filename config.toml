@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/champagne-ardenne"
+languageCode = "fr"
+title = "Champagne-Ardenne"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "champagne-ardenne"
+
+[taxonomies]
+  shop = "shops"
