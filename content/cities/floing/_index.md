@@ -1,6 +1,6 @@
 ---
 title: Floing
 url: /floing/
-latitude: 49.722974
-longitude: 4.9308215
+latitude: 49.7228161
+longitude: 4.9305677
 ---
