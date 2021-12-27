@@ -1,6 +1,6 @@
 ---
 title: Chaumont
 url: /chaumont/
-latitude: 48.1111324
-longitude: 5.1395849
+latitude: 48.105
+longitude: 5.144
 ---

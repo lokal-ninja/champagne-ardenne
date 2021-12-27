@@ -1,6 +1,6 @@
 ---
 title: Champigny
 url: /champigny/
-latitude: 48.302043100000006
-longitude: 4.2396007
+latitude: 49.264
+longitude: 3.964
 ---

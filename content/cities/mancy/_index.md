@@ -1,6 +1,6 @@
 ---
 title: Mancy
 url: /mancy/
-latitude: 48.983284100000006
-longitude: 3.9348901
+latitude: 48.983
+longitude: 3.934
 ---

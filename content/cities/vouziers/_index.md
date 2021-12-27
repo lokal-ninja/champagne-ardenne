@@ -1,6 +1,6 @@
 ---
 title: Vouziers
 url: /vouziers/
-latitude: 
-longitude: 
+latitude: 49.398
+longitude: 4.7
 ---

@@ -1,6 +1,6 @@
 ---
 title: Givet
 url: /givet/
-latitude: 50.1362582
-longitude: 4.8248698
+latitude: 50.135
+longitude: 4.829
 ---

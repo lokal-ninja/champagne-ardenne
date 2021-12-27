@@ -1,6 +1,6 @@
 ---
 title: Bugnières
 url: /bugnieres/
-latitude: 47.943727200000005
-longitude: 5.101667
+latitude: 47.944
+longitude: 5.1
 ---

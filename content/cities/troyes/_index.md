@@ -1,6 +1,6 @@
 ---
 title: Troyes
 url: /troyes/
-latitude: 48.2971626
-longitude: 4.0746257
+latitude: 48.298
+longitude: 4.075
 ---

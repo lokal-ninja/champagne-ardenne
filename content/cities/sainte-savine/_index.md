@@ -1,6 +1,6 @@
 ---
 title: Sainte-Savine
 url: /sainte-savine/
-latitude: 48.2931517
-longitude: 4.0565359
+latitude: 48.297
+longitude: 4.002
 ---

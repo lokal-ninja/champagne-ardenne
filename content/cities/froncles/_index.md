@@ -1,6 +1,6 @@
 ---
 title: Froncles
 url: /froncles/
-latitude: 48.2984
-longitude: 5.14198
+latitude: 48.297
+longitude: 5.147
 ---

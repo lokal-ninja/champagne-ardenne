@@ -1,6 +1,6 @@
 ---
 title: Les Riceys
 url: /les-riceys/
-latitude: 48.5331108
-longitude: 3.466406
+latitude: 47.997
+longitude: 4.366
 ---

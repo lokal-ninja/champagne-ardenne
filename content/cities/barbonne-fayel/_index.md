@@ -1,6 +1,6 @@
 ---
 title: Barbonne-Fayel
 url: /barbonne-fayel/
-latitude: 48.6571602
-longitude: 3.6940706000000003
+latitude: 48.657
+longitude: 3.695
 ---

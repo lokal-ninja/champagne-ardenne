@@ -1,6 +1,6 @@
 ---
 title: Chamoy
 url: /chamoy/
-latitude: 48.1175361
-longitude: 3.9708488
+latitude: 48.118
+longitude: 3.971
 ---

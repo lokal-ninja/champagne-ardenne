@@ -1,6 +1,6 @@
 ---
 title: Bétheny
 url: /betheny/
-latitude: 49.2845383
-longitude: 4.053512700000001
+latitude: 49.285
+longitude: 4.057
 ---

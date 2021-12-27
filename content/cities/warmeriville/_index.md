@@ -1,6 +1,6 @@
 ---
 title: Warmeriville
 url: /warmeriville/
-latitude: 49.3499703
-longitude: 4.2202414
+latitude: 49.35
+longitude: 4.207
 ---

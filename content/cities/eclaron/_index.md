@@ -1,6 +1,6 @@
 ---
 title: Eclaron
 url: /eclaron/
-latitude: 
-longitude: 
+latitude: 48.595
+longitude: 4.863
 ---

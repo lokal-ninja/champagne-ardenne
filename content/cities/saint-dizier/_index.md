@@ -1,6 +1,6 @@
 ---
 title: Saint-Dizier
 url: /saint-dizier/
-latitude: 48.6371125
-longitude: 4.9473513
+latitude: 48.637
+longitude: 4.951
 ---

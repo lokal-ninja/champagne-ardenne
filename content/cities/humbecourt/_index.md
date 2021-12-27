@@ -1,6 +1,6 @@
 ---
 title: humbécourt
 url: /humbecourt/
-latitude: 
-longitude: 
+latitude: 48.581
+longitude: 4.906
 ---

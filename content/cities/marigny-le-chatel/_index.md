@@ -1,6 +1,6 @@
 ---
 title: Marigny-le-Châtel
 url: /marigny-le-chatel/
-latitude: 48.403192000000004
-longitude: 3.7366675000000003
+latitude: 48.402
+longitude: 3.736
 ---

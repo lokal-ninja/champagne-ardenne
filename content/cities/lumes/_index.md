@@ -1,6 +1,6 @@
 ---
 title: Lumes
 url: /lumes/
-latitude: 49.735319000000004
-longitude: 4.7838227
+latitude: 49.736
+longitude: 4.782
 ---

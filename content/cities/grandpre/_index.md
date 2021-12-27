@@ -1,6 +1,6 @@
 ---
 title: Grandpré
 url: /grandpre/
-latitude: 49.3413715
-longitude: 4.868220900000001
+latitude: 49.341
+longitude: 4.872
 ---

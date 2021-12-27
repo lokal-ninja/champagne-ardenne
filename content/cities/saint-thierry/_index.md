@@ -1,6 +1,6 @@
 ---
 title: Saint-Thierry
 url: /saint-thierry/
-latitude: 49.51662090000001
-longitude: 4.1392216
+latitude: 49.309
+longitude: 3.986
 ---

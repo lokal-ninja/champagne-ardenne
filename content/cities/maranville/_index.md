@@ -1,6 +1,6 @@
 ---
 title: Maranville
 url: /maranville/
-latitude: 48.1343827
-longitude: 4.866772200000001
+latitude: 48.133
+longitude: 4.867
 ---

@@ -1,6 +1,6 @@
 ---
 title: Bezannes
 url: /bezannes/
-latitude: 49.2195271
-longitude: 3.9864282
+latitude: 49.219
+longitude: 3.996
 ---

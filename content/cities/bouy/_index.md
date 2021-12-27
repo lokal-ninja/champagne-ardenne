@@ -1,6 +1,6 @@
 ---
 title: Bouy
 url: /bouy/
-latitude: 49.086063300000006
-longitude: 4.3487161
+latitude: 49.093
+longitude: 4.353
 ---

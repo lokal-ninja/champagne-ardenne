@@ -1,6 +1,6 @@
 ---
 title: Villenauxe-la-Grande
 url: /villenauxe-la-grande/
-latitude: 48.5903846
-longitude: 3.5548725
+latitude: 48.584
+longitude: 3.56
 ---

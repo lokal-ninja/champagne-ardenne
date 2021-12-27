@@ -1,6 +1,6 @@
 ---
 title: Creney-près-Troyes
 url: /creney-pres-troyes/
-latitude: 48.333367
-longitude: 4.127239100000001
+latitude: 48.328
+longitude: 4.114
 ---

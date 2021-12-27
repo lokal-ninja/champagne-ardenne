@@ -1,6 +1,6 @@
 ---
 title: Revin
 url: /revin/
-latitude: 49.942122100000006
-longitude: 4.6374643
+latitude: 49.934
+longitude: 4.64
 ---

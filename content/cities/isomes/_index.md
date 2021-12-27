@@ -1,6 +1,6 @@
 ---
 title: Isômes
 url: /isomes/
-latitude: 47.6460011
-longitude: 5.3043421
+latitude: 47.646
+longitude: 5.305
 ---

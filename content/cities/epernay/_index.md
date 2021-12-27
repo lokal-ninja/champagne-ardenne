@@ -1,6 +1,6 @@
 ---
 title: Épernay
 url: /epernay/
-latitude: 49.042561000000006
-longitude: 3.9528655
+latitude: 49.044
+longitude: 3.953
 ---

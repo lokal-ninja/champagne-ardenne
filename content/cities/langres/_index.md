@@ -1,6 +1,6 @@
 ---
 title: langres
 url: /langres/
-latitude: 
-longitude: 
+latitude: 47.863
+longitude: 5.334
 ---

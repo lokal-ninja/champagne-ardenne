@@ -1,6 +1,6 @@
 ---
 title: Fismes
 url: /fismes/
-latitude: 49.3072444
-longitude: 3.6802766
+latitude: 49.309
+longitude: 3.668
 ---

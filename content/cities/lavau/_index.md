@@ -1,6 +1,6 @@
 ---
 title: Lavau
 url: /lavau/
-latitude: 48.327019
-longitude: 4.0862388
+latitude: 48.333
+longitude: 4.103
 ---

@@ -1,6 +1,6 @@
 ---
 title: Châteauvillain
 url: /chateauvillain/
-latitude: 48.036222
-longitude: 4.9175196
+latitude: 48.035
+longitude: 4.918
 ---

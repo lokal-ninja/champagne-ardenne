@@ -1,6 +1,6 @@
 ---
 title: Monthermé
 url: /montherme/
-latitude: 49.8843041
-longitude: 4.739175100000001
+latitude: 49.888
+longitude: 4.736
 ---

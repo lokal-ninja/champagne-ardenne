@@ -1,6 +1,6 @@
 ---
 title: moussy
 url: /moussy/
-latitude: 
-longitude: 
+latitude: 49.012
+longitude: 3.922
 ---

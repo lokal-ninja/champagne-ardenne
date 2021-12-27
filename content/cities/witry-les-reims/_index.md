@@ -1,6 +1,6 @@
 ---
 title: Witry-lès-Reims
 url: /witry-les-reims/
-latitude: 49.2902975
-longitude: 4.1156440000000005
+latitude: 49.298
+longitude: 4.126
 ---

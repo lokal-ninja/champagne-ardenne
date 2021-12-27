@@ -1,6 +1,6 @@
 ---
 title: Chooz
 url: /chooz/
-latitude: 50.102008100000006
-longitude: 4.8070034
+latitude: 50.103
+longitude: 4.807
 ---

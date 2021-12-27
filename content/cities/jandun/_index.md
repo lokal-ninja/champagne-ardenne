@@ -1,6 +1,6 @@
 ---
 title: Jandun
 url: /jandun/
-latitude: 49.66254
-longitude: 4.55606
+latitude: 49.664
+longitude: 4.552
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chalindrey
 url: /chalindrey/
-latitude: 47.804131500000004
-longitude: 5.427009
+latitude: 47.808
+longitude: 5.445
 ---
