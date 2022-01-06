@@ -1,5 +1,5 @@
 ---
-title: "LM LES FLEURS"
+title: "LM Les Fleurs"
 url: /fismes/lm-les-fleurs/
 shop: fleuriste
 ---

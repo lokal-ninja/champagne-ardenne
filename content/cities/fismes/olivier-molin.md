@@ -1,5 +1,5 @@
 ---
-title: "Olivier MOLIN"
+title: "Olivier Molin"
 url: /fismes/olivier-molin/
 shop: opticien
 ---
