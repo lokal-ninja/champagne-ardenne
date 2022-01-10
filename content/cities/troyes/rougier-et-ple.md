@@ -1,5 +1,5 @@
 ---
 title: "Rougier & Plé"
-url: /troyes/rougier-and-ple/
+url: /troyes/rougier-et-ple/
 shop: art
 ---

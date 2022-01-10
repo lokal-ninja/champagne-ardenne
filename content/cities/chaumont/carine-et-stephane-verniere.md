@@ -1,5 +1,5 @@
 ---
 title: "Carine & Stéphane Vernière"
-url: /chaumont/carine-and-stephane-verniere/
+url: /chaumont/carine-et-stephane-verniere/
 shop: coiffeur
 ---

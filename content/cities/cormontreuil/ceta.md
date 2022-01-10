@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /cormontreuil/canda/
+url: /cormontreuil/ceta/
 shop: vêtements
 ---

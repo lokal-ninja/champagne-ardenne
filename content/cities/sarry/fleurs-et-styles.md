@@ -1,5 +1,5 @@
 ---
 title: "Fleurs & Styles"
-url: /sarry/fleurs-and-styles/
+url: /sarry/fleurs-et-styles/
 shop: fleuriste
 ---

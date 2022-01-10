@@ -1,5 +1,5 @@
 ---
 title: "Z&N AUTO"
-url: /betheny/zandn-auto/
+url: /betheny/zetn-auto/
 shop: réparation de voitures
 ---

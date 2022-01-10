@@ -1,5 +1,5 @@
 ---
 title: "Jeux & Stratégie"
-url: /troyes/jeux-and-strategie/
+url: /troyes/jeux-et-strategie/
 shop: jouets
 ---

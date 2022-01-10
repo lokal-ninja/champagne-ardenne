@@ -1,5 +1,5 @@
 ---
 title: "ZJ AUTO (A&P)"
-url: /champfleury/zj-auto-aandp/
+url: /champfleury/zj-auto-aetp/
 shop: voiture
 ---

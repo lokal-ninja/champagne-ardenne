@@ -1,5 +1,5 @@
 ---
 title: "Art & Coiffure"
-url: /chaumont/art-and-coiffure/
+url: /chaumont/art-et-coiffure/
 shop: coiffeur
 ---
