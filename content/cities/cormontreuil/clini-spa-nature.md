@@ -1,5 +1,5 @@
 ---
-title: "CLINI-SPA Nature"
+title: "CLINI-SPA NATURE"
 url: /cormontreuil/clini-spa-nature/
 shop: massage
 ---
