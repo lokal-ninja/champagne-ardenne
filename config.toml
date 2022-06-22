@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/champagne-ardenne"
+baseURL = "https://fr.shoogle.net/champagne-ardenne/"
 languageCode = "fr"
 title = "Champagne Ardenne"
 theme = "ln-base"
