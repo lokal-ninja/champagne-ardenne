@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc"
-url: /saint-dizier/e-leclerc-2/
+url: /saint-dizier/e-leclerc/
 shop: supermarché
 ---

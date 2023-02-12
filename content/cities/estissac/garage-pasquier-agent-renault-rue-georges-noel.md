@@ -1,5 +1,5 @@
 ---
 title: "Garage Pasquier Agent Renault"
-url: /estissac/garage-pasquier-agent-renault-2/
+url: /estissac/garage-pasquier-agent-renault/
 shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /tinqueux/carrefour-2/
+url: /tinqueux/carrefour/
 shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SoCoo'c"
-url: /cormontreuil/socooc-2/
+url: /cormontreuil/socooc/
 shop: cuisine
 ---

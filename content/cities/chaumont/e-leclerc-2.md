@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
-url: /chaumont/e-leclerc-2/
+url: /chaumont/e-leclerc/
 shop: gaz
 ---

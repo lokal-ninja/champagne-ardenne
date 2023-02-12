@@ -1,5 +1,5 @@
 ---
 title: "Géant Casino"
-url: /bazeilles/geant-casino-2/
+url: /bazeilles/geant-casino/
 shop: supermarché
 ---
