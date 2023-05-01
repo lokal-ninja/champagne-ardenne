@@ -1,5 +1,5 @@
 ---
 title: "Vulco"
 url: /ormes/vulco/
-shop: réparation de voitures
+shop: pièces de voitures
 ---
