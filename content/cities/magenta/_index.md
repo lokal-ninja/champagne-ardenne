@@ -1,6 +1,6 @@
 ---
 title: Magenta
 url: /magenta/
-latitude: 49.058
-longitude: 3.966
+latitude: 49.059
+longitude: 3.963
 ---
