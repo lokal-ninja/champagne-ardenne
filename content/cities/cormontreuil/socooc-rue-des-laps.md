@@ -1,5 +1,5 @@
 ---
 title: "SoCoo'c"
-url: /cormontreuil/socooc/
+url: /cormontreuil/socooc-rue-des-laps/
 shop: cuisine
 ---
