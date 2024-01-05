@@ -1,5 +1,5 @@
 ---
 title: "Equivalenza"
 url: /troyes/equivalenza/
-shop: beauté
+shop: parfumerie
 ---
