@@ -1,6 +1,6 @@
 ---
 title: Champfleury
 url: /champfleury/
-latitude: 49.193
-longitude: 4.011
+latitude: 49.194
+longitude: 4.01
 ---
