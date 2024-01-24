@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
-url: /saint-dizier/noz/
+url: /chaumont/noz/
 shop: magasin de variétés
 ---
