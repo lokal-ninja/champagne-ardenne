@@ -1,6 +1,6 @@
 ---
 title: Villechétif
 url: /villechetif/
-latitude: 48.301
-longitude: 4.136
+latitude: 48.3
+longitude: 4.134
 ---
