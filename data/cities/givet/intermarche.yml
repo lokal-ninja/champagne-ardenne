@@ -1,11 +1,11 @@
-id: 518043178
-type: way
-latitude: 50.14935
-longitude: 4.82038
+id: 1588310336
+type: node
+latitude: 50.13482
+longitude: 4.85426
 postcode: "08600"
 city: Givet
-street: "Rue Mon Bijou"
+street: "Route de Beauraing"
 housenumber: 
-phone: "+33324295909"
-opening_hours: "Mo-Sa 08:30-19:00; Su 09:00-12:20"
-website: ""
+phone: "+33 3 24 42 30 40"
+opening_hours: "Mo-Sa 08:30-20:00"
+website: "https://www.intermarche-givet.fr/"

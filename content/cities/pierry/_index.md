@@ -1,6 +1,6 @@
 ---
 title: Pierry
 url: /pierry/
-latitude: 49.025
-longitude: 3.946
+latitude: 49.022
+longitude: 3.947
 ---
