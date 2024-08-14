@@ -1,5 +1,5 @@
 ---
 title: "E.Leclerc Drive"
-url: /saint-dizier/e-leclerc-drive/
+url: /reims/e-leclerc-drive-rue-ceres/
 shop: avant-poste
 ---
