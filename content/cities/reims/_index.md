@@ -1,6 +1,6 @@
 ---
 title: Reims
 url: /reims/
-latitude: 49.259
-longitude: 4.057
+latitude: 49.253
+longitude: 4.054
 ---
