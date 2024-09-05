@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /charmont-sous-barbuise/vival/
-shop: commodité
+shop: Lebensmittel
 ---

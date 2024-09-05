@@ -1,5 +1,5 @@
 ---
 title: "Rocha"
 url: /la-francheville/rocha/
-shop: centre de jardinage
+shop: Garten-Center
 ---

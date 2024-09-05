@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /warcq/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

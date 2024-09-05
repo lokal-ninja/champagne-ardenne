@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /charleville-mezieres/yves-rocher/
-shop: beauté
+shop: Kosmetik
 ---

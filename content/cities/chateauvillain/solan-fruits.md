@@ -1,5 +1,5 @@
 ---
 title: "Solan fruits"
 url: /chateauvillain/solan-fruits/
-shop: légumes
+shop: Gemüse & Obst
 ---

@@ -1,5 +1,5 @@
 ---
 title: "SAS Ancelot père et fils"
 url: /brethenay/sas-ancelot-pere-et-fils/
-shop: cheminée
+shop: Kamine & Öfen
 ---

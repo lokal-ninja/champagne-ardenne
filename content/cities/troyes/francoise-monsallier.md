@@ -1,5 +1,5 @@
 ---
 title: "Françoise Monsallier"
 url: /troyes/francoise-monsallier/
-shop: photo
+shop: Foto
 ---

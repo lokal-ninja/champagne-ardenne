@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /chaumont/sephora/
-shop: beauté
+shop: Kosmetik
 ---

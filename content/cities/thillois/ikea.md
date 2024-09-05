@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
 url: /thillois/ikea/
-shop: meubles
+shop: Möbel
 ---

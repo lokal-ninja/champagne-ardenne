@@ -1,5 +1,5 @@
 ---
 title: "Donadel"
 url: /chaumont/donadel/
-shop: bijoux
+shop: Schmuck
 ---

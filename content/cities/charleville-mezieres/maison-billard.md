@@ -1,5 +1,5 @@
 ---
 title: "Maison Billard"
 url: /charleville-mezieres/maison-billard/
-shop: pâtisserie
+shop: Konditorei
 ---

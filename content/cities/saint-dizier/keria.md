@@ -1,5 +1,5 @@
 ---
 title: "Keria"
 url: /saint-dizier/keria/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

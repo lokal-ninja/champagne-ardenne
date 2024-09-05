@@ -1,5 +1,5 @@
 ---
 title: "Phileas"
 url: /troyes/phileas/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

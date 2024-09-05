@@ -1,5 +1,5 @@
 ---
 title: "Marjorie nature"
 url: /chaumont/marjorie-nature/
-shop: beauté
+shop: Kosmetik
 ---

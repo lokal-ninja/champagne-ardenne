@@ -1,5 +1,5 @@
 ---
 title: "La Pergola"
 url: /reims/la-pergola/
-shop: fleuriste
+shop: Blumen
 ---

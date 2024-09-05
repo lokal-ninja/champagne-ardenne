@@ -1,5 +1,5 @@
 ---
 title: "MaXxess"
 url: /thillois/maxxess/
-shop: moto
+shop: Motorrad
 ---

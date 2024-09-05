@@ -1,5 +1,5 @@
 ---
 title: "Europlex"
 url: /reims/europlex/
-shop: appareil ménager
+shop: Haushaltsgeräte
 ---

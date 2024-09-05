@@ -1,5 +1,5 @@
 ---
 title: "Libertium Saint-Dizier"
 url: /saint-dizier/libertium-saint-dizier/
-shop: caravane
+shop: Wohnwagen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /betheny/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

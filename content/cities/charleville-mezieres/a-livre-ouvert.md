@@ -1,5 +1,5 @@
 ---
 title: "À livre ouvert"
 url: /charleville-mezieres/a-livre-ouvert/
-shop: livres
+shop: Bücher
 ---

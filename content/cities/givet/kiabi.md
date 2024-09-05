@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /givet/kiabi/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /saint-dizier/lapeyre/
-shop: meubles
+shop: Möbel
 ---

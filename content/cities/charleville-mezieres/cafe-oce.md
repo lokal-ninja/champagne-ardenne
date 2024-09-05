@@ -1,5 +1,5 @@
 ---
 title: "Café Océ"
 url: /charleville-mezieres/cafe-oce/
-shop: café
+shop: Kaffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Karl"
 url: /champigny/karl/
-shop: boulangerie
+shop: Bäckerei
 ---

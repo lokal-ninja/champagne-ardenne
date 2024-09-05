@@ -1,5 +1,5 @@
 ---
 title: "Cigaverte"
 url: /champigny/cigaverte/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

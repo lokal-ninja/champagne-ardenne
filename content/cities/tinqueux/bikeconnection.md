@@ -1,5 +1,5 @@
 ---
 title: "Bikeconnection"
 url: /tinqueux/bikeconnection/
-shop: vélo
+shop: Fahrrad
 ---

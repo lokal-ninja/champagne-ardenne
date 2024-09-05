@@ -1,5 +1,5 @@
 ---
 title: "Aqualine"
 url: /sarry/aqualine/
-shop: beauté
+shop: Kosmetik
 ---

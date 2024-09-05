@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /revin/atol/
-shop: opticien
+shop: Optiker
 ---

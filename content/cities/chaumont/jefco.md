@@ -1,5 +1,5 @@
 ---
 title: "Jefco"
 url: /chaumont/jefco/
-shop: peinture
+shop: Farben
 ---

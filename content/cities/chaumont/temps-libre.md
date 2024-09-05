@@ -1,5 +1,5 @@
 ---
 title: "Temps Libre"
 url: /chaumont/temps-libre/
-shop: jouets
+shop: Spielzeug
 ---

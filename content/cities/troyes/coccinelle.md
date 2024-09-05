@@ -1,5 +1,5 @@
 ---
 title: "Coccinelle"
 url: /troyes/coccinelle/
-shop: bijoux
+shop: Schmuck
 ---

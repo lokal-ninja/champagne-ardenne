@@ -1,5 +1,5 @@
 ---
 title: "Duparcq"
 url: /troyes/duparcq/
-shop: confiserie
+shop: Süßwaren
 ---

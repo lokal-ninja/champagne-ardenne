@@ -1,5 +1,5 @@
 ---
 title: "Point Fort Fichet"
 url: /reims/point-fort-fichet/
-shop: serrurier
+shop: Schlüsseldienst
 ---

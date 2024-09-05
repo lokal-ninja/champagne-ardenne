@@ -1,5 +1,5 @@
 ---
 title: "Cauchon"
 url: /vouziers/cauchon/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Okazinfo"
 url: /chaumont/okazinfo/
-shop: ordinateur
+shop: Computer
 ---

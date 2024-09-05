@@ -1,5 +1,5 @@
 ---
 title: "Jacadi"
 url: /reims/jacadi/
-shop: vêtements
+shop: Kleidung
 ---

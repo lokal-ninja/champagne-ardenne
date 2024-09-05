@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /magenta/renault/
-shop: voiture
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Différences"
 url: /eclaron/differences/
-shop: coiffeur
+shop: Friseur
 ---

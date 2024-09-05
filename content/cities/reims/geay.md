@@ -1,5 +1,5 @@
 ---
 title: "Geay"
 url: /reims/geay/
-shop: bijoux
+shop: Schmuck
 ---

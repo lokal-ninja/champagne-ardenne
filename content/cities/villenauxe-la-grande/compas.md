@@ -1,5 +1,5 @@
 ---
 title: "Compas"
 url: /villenauxe-la-grande/compas/
-shop: centre de jardinage
+shop: Garten-Center
 ---

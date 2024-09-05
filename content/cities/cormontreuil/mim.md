@@ -1,5 +1,5 @@
 ---
 title: "Mim"
 url: /cormontreuil/mim/
-shop: vêtements
+shop: Kleidung
 ---

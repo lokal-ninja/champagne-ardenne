@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /chateauvillain/intermarche/
-shop: supermarché
+shop: Supermarkt
 ---

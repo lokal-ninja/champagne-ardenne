@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
 url: /troyes/calzedonia/
-shop: vêtements
+shop: Kleidung
 ---

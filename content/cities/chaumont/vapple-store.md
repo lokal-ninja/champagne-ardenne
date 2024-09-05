@@ -1,5 +1,5 @@
 ---
 title: "Vapple Store"
 url: /chaumont/vapple-store/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

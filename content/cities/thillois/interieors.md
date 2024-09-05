@@ -1,5 +1,5 @@
 ---
 title: "Intérieor'S"
 url: /thillois/interieors/
-shop: meubles
+shop: Möbel
 ---

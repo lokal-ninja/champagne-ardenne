@@ -1,5 +1,5 @@
 ---
 title: "Meuhhh!"
 url: /reims/meuhhh/
-shop: fromage
+shop: Käse
 ---

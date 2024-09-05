@@ -1,5 +1,5 @@
 ---
 title: "Folie's"
 url: /reims/folies/
-shop: vêtements
+shop: Kleidung
 ---

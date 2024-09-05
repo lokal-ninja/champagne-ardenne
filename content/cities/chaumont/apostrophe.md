@@ -1,5 +1,5 @@
 ---
 title: "Apostrophe"
 url: /chaumont/apostrophe/
-shop: livres
+shop: Bücher
 ---

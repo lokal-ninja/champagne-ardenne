@@ -1,5 +1,5 @@
 ---
 title: "Tchip"
 url: /reims/tchip/
-shop: coiffeur
+shop: Friseur
 ---

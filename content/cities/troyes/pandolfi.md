@@ -1,5 +1,5 @@
 ---
 title: "Pandolfi"
 url: /troyes/pandolfi/
-shop: boulangerie
+shop: Bäckerei
 ---

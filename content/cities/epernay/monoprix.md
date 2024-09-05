@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /epernay/monoprix/
-shop: supermarché
+shop: Supermarkt
 ---

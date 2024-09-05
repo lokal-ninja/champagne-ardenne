@@ -1,5 +1,5 @@
 ---
 title: "Feuilleté"
 url: /reims/feuillete/
-shop: pâtisserie
+shop: Konditorei
 ---

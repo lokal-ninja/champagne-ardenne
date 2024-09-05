@@ -1,5 +1,5 @@
 ---
 title: "Cache Cache"
 url: /saint-dizier/cache-cache/
-shop: vêtements
+shop: Kleidung
 ---

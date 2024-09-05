@@ -1,5 +1,5 @@
 ---
 title: "Festi"
 url: /reims/festi/
-shop: fête
+shop: Partyzubehör
 ---

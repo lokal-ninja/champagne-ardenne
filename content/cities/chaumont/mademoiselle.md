@@ -1,5 +1,5 @@
 ---
 title: "Mademoiselle"
 url: /chaumont/mademoiselle/
-shop: vêtements
+shop: Kleidung
 ---

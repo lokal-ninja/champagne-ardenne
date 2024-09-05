@@ -1,5 +1,5 @@
 ---
 title: "L'Artiste"
 url: /troyes/lartiste/
-shop: coiffeur
+shop: Friseur
 ---

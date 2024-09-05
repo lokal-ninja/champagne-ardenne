@@ -1,5 +1,5 @@
 ---
 title: "Mélisac"
 url: /reims/melisac/
-shop: cuir
+shop: Leder
 ---

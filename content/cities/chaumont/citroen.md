@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /chaumont/citroen/
-shop: voiture
+shop: Autohaus
 ---
