@@ -1,5 +1,5 @@
 ---
 title: "Gossard"
 url: /fismes/gossard/
-shop: Bücher
+shop: livres
 ---

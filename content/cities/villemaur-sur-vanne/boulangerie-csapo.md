@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Csapo"
 url: /villemaur-sur-vanne/boulangerie-csapo/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Castel-Motoculture"
 url: /chateauvillain/castel-motoculture/
-shop: Dorfladen
+shop: magasin de campagne
 ---

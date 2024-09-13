@@ -1,5 +1,5 @@
 ---
 title: "Garage Jacquot et Meilley"
 url: /chateauvillain/garage-jacquot-et-meilley/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

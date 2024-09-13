@@ -1,5 +1,5 @@
 ---
 title: "L'Auto Leclerc"
 url: /sezanne/lauto-leclerc/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

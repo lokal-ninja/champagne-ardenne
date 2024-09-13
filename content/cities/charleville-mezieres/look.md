@@ -1,5 +1,5 @@
 ---
 title: "Look"
 url: /charleville-mezieres/look/
-shop: Kleidung
+shop: vêtements
 ---

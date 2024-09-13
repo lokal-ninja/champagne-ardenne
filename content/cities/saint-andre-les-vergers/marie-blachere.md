@@ -1,5 +1,5 @@
 ---
 title: "Marie Blachère"
 url: /saint-andre-les-vergers/marie-blachere/
-shop: Bäckerei
+shop: boulangerie
 ---

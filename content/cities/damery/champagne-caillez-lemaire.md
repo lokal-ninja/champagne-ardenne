@@ -1,5 +1,5 @@
 ---
 title: "Champagne Caillez-Lemaire"
 url: /damery/champagne-caillez-lemaire/
-shop: Spirituosen
+shop: alcool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Bruhammer"
 url: /troyes/garage-bruhammer/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

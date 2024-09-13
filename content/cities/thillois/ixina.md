@@ -1,5 +1,5 @@
 ---
 title: "Ixina"
 url: /thillois/ixina/
-shop: Küchen
+shop: cuisine
 ---

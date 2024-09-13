@@ -1,5 +1,5 @@
 ---
 title: "Bonvalet"
 url: /cormontreuil/bonvalet/
-shop: Bäckerei
+shop: boulangerie
 ---

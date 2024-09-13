@@ -1,5 +1,5 @@
 ---
 title: "Jacques Dessange"
 url: /troyes/jacques-dessange/
-shop: Friseur
+shop: coiffeur
 ---

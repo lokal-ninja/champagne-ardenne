@@ -1,5 +1,5 @@
 ---
 title: "Bj’s Capilliculteur"
 url: /reims/bjs-capilliculteur/
-shop: Friseur
+shop: coiffeur
 ---

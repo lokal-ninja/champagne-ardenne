@@ -1,5 +1,5 @@
 ---
 title: "Gitem"
 url: /balan/gitem/
-shop: Elektronik
+shop: électronique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /tinqueux/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /sedan/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

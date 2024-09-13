@@ -1,5 +1,5 @@
 ---
 title: "ClopiNette"
 url: /reims/clopinette/
-shop: Tabak
+shop: tabac
 ---

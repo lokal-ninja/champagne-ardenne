@@ -1,5 +1,5 @@
 ---
 title: "La Cave Gourmande"
 url: /chaumont/la-cave-gourmande/
-shop: Wein
+shop: vin
 ---

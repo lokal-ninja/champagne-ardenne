@@ -1,5 +1,5 @@
 ---
 title: "Stock Remorques"
 url: /bouy/stock-remorques/
-shop: Autohaus
+shop: voiture
 ---

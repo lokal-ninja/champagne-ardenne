@@ -1,5 +1,5 @@
 ---
 title: "Zodio"
 url: /thillois/zodio/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

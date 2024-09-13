@@ -1,5 +1,5 @@
 ---
 title: "Aprolis"
 url: /prunay/aprolis/
-shop: Großhandel
+shop: vente en gros
 ---

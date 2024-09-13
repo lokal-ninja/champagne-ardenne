@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /givet/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

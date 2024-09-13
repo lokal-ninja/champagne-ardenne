@@ -1,5 +1,5 @@
 ---
 title: "decodujardin"
 url: /reims/decodujardin/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /thillois/darty/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

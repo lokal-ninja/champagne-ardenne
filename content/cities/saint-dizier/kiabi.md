@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /saint-dizier/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

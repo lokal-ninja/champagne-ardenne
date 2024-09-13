@@ -1,5 +1,5 @@
 ---
 title: "Au Charli'z"
 url: /viroinval/au-charliz/
-shop: Tabak
+shop: tabac
 ---

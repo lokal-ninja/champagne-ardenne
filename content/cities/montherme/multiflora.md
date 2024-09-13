@@ -1,5 +1,5 @@
 ---
 title: "Multiflora"
 url: /montherme/multiflora/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Servifleures"
 url: /tinqueux/servifleures/
-shop: Blumen
+shop: fleuriste
 ---

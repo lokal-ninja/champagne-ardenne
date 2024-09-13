@@ -1,5 +1,5 @@
 ---
 title: "indusPhone"
 url: /chaumont/indusphone/
-shop: Handy
+shop: téléphone portable
 ---

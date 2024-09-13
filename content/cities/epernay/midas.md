@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /epernay/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

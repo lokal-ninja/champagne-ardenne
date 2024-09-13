@@ -1,5 +1,5 @@
 ---
 title: "Au P'tit Creux"
 url: /froncles/au-ptit-creux/
-shop: Bäckerei
+shop: boulangerie
 ---

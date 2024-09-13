@@ -1,5 +1,5 @@
 ---
 title: "Othe Mécatechnique"
 url: /estissac/othe-mecatechnique/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

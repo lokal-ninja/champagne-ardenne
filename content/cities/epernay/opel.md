@@ -1,5 +1,5 @@
 ---
 title: "Opel"
 url: /epernay/opel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carlance"
 url: /tinqueux/carlance/
-shop: Kosmetik
+shop: beauté
 ---

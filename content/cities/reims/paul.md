@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /reims/paul/
-shop: Bäckerei
+shop: boulangerie
 ---

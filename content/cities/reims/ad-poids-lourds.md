@@ -1,5 +1,5 @@
 ---
 title: "AD Poids Lourds"
 url: /reims/ad-poids-lourds/
-shop: Autoteile
+shop: pièces de voitures
 ---

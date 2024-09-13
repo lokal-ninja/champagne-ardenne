@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /tinqueux/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

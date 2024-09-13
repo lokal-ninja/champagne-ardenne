@@ -1,5 +1,5 @@
 ---
 title: "Feu Vert Tinqueux"
 url: /tinqueux/feu-vert-tinqueux/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

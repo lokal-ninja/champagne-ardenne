@@ -1,5 +1,5 @@
 ---
 title: "Jennyfer"
 url: /saint-dizier/jennyfer/
-shop: Kleidung
+shop: vêtements
 ---

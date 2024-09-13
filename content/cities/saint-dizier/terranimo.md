@@ -1,5 +1,5 @@
 ---
 title: "Terranimo"
 url: /saint-dizier/terranimo/
-shop: Tiere
+shop: animal de compagnie
 ---

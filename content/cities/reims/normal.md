@@ -1,5 +1,5 @@
 ---
 title: "Normal"
 url: /reims/normal/
-shop: Dorfladen
+shop: magasin de campagne
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /courcy/renault/
-shop: Autohaus
+shop: voiture
 ---

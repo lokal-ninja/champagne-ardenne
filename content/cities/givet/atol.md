@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /givet/atol/
-shop: Optiker
+shop: opticien
 ---

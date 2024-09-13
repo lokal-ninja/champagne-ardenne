@@ -1,5 +1,5 @@
 ---
 title: "Eva Voyages"
 url: /troyes/eva-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

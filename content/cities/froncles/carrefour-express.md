@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /froncles/carrefour-express/
-shop: Lebensmittel
+shop: commodité
 ---

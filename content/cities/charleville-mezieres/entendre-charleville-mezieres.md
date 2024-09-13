@@ -1,5 +1,5 @@
 ---
 title: "Entendre Charleville Mézières"
 url: /charleville-mezieres/entendre-charleville-mezieres/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

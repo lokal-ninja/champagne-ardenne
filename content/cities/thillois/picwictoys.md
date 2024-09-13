@@ -1,5 +1,5 @@
 ---
 title: "PicWicToys"
 url: /thillois/picwictoys/
-shop: Spielzeug
+shop: jouets
 ---

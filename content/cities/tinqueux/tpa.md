@@ -1,5 +1,5 @@
 ---
 title: "TPA"
 url: /tinqueux/tpa/
-shop: Autoteile
+shop: pièces de voitures
 ---

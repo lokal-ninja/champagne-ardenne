@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /nogent/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

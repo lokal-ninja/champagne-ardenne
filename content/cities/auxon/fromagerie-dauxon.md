@@ -1,5 +1,5 @@
 ---
 title: "Fromagerie d'Auxon"
 url: /auxon/fromagerie-dauxon/
-shop: Käse
+shop: fromage
 ---

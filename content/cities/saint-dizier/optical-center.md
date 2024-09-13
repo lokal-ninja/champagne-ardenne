@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /saint-dizier/optical-center/
-shop: Optiker
+shop: opticien
 ---

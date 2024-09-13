@@ -1,5 +1,5 @@
 ---
 title: "Chaumont Buro"
 url: /chaumont/chaumont-buro/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

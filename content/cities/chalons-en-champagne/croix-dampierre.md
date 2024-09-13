@@ -1,5 +1,5 @@
 ---
 title: "Croix Dampierre"
 url: /chalons-en-champagne/croix-dampierre/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

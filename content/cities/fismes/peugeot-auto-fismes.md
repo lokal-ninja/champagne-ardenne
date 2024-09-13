@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Auto Fismes"
 url: /fismes/peugeot-auto-fismes/
-shop: Autohaus
+shop: voiture
 ---

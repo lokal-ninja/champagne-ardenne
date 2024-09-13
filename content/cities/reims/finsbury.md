@@ -1,5 +1,5 @@
 ---
 title: "Finsbury"
 url: /reims/finsbury/
-shop: Schuhe
+shop: chaussures
 ---

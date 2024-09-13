@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /dizy/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

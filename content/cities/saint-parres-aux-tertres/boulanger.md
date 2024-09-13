@@ -1,5 +1,5 @@
 ---
 title: "Boulanger"
 url: /saint-parres-aux-tertres/boulanger/
-shop: Elektronik
+shop: électronique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Easy Love"
 url: /cormontreuil/easy-love/
-shop: Erotik
+shop: érotique
 ---

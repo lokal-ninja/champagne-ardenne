@@ -1,5 +1,5 @@
 ---
 title: "Saltimbanque"
 url: /reims/saltimbanque/
-shop: Tiere
+shop: animal de compagnie
 ---

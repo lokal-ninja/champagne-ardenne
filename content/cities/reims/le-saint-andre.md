@@ -1,5 +1,5 @@
 ---
 title: "Le Saint-André"
 url: /reims/le-saint-andre/
-shop: Zeitungen
+shop: marchand de journaux
 ---

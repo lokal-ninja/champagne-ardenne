@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /troyes/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

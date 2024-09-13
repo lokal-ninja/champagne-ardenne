@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Feuillette"
 url: /romilly-sur-seine/boulangerie-feuillette/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /cormontreuil/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

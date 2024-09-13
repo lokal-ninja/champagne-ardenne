@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /reims/sfr/
-shop: Handy
+shop: téléphone portable
 ---

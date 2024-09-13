@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /sezanne/renault/
-shop: Autohaus
+shop: voiture
 ---

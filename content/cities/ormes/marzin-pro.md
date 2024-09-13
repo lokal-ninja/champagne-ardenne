@@ -1,5 +1,5 @@
 ---
 title: "Marzin Pro"
 url: /ormes/marzin-pro/
-shop: Fliesen
+shop: tuiles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Audition Max Reims"
 url: /reims/audition-max-reims/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

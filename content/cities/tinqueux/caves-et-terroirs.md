@@ -1,5 +1,5 @@
 ---
 title: "Caves et terroirs"
 url: /tinqueux/caves-et-terroirs/
-shop: Leerstehend
+shop: vacant
 ---

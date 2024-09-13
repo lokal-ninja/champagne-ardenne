@@ -1,5 +1,5 @@
 ---
 title: "La Grande Récré"
 url: /cormontreuil/la-grande-recre/
-shop: Spielzeug
+shop: jouets
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Masson"
 url: /troyes/bijouterie-masson/
-shop: Schmuck
+shop: bijoux
 ---

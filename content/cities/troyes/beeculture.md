@@ -1,5 +1,5 @@
 ---
 title: "Beeculture"
 url: /troyes/beeculture/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Coiffure"
 url: /saint-andre-les-vergers/la-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

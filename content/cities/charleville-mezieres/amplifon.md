@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /charleville-mezieres/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

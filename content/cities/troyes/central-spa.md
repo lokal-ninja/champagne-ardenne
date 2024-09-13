@@ -1,5 +1,5 @@
 ---
 title: "Central Spa"
 url: /troyes/central-spa/
-shop: Kosmetik
+shop: beauté
 ---

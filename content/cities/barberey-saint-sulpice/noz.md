@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /barberey-saint-sulpice/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoControle C.C.T.A Beury"
 url: /troyes/autocontrole-c-c-t-a-beury/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jouvin"
 url: /loivre/jouvin/
-shop: Möbel
+shop: meubles
 ---

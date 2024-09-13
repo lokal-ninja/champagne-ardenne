@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /cormontreuil/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

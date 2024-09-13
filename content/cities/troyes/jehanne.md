@@ -1,5 +1,5 @@
 ---
 title: "Jehanne"
 url: /troyes/jehanne/
-shop: Schmuck
+shop: bijoux
 ---

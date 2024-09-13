@@ -1,5 +1,5 @@
 ---
 title: "La Marcasserie"
 url: /montcy-saint-pierre/la-marcasserie/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Cadot agent Renault"
 url: /marigny-le-chatel/garage-cadot-agent-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

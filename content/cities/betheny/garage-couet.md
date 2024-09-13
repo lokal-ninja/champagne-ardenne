@@ -1,5 +1,5 @@
 ---
 title: "Garage Couet"
 url: /betheny/garage-couet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

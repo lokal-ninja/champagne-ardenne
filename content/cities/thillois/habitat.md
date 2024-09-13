@@ -1,5 +1,5 @@
 ---
 title: "Habitat"
 url: /thillois/habitat/
-shop: Möbel
+shop: meubles
 ---

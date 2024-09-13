@@ -1,5 +1,5 @@
 ---
 title: "Garage Moreau"
 url: /reims/garage-moreau/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /cormontreuil/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

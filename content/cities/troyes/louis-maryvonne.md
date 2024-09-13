@@ -1,5 +1,5 @@
 ---
 title: "Louis Maryvonne"
 url: /troyes/louis-maryvonne/
-shop: Schuhe
+shop: chaussures
 ---

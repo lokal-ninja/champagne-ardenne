@@ -1,5 +1,5 @@
 ---
 title: "Village de Marques Troyes"
 url: /lavau/village-de-marques-troyes/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

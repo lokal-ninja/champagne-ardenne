@@ -1,5 +1,5 @@
 ---
 title: "Vidéo Perspective"
 url: /reims/video-perspective/
-shop: Elektronik
+shop: électronique
 ---

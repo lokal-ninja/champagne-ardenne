@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /sezanne/aldi-avenue-jean-jaures/
-shop: Supermarkt
+shop: supermarché
 ---

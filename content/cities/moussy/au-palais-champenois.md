@@ -1,5 +1,5 @@
 ---
 title: "Au Palais Champenois"
 url: /moussy/au-palais-champenois/
-shop: Bäckerei
+shop: boulangerie
 ---

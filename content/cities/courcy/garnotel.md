@@ -1,5 +1,5 @@
 ---
 title: "Garnotel"
 url: /courcy/garnotel/
-shop: Küchen
+shop: cuisine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pompes Funèbres Grosset"
 url: /marigny-le-chatel/pompes-funebres-grosset/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

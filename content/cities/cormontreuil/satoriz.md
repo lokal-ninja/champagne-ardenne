@@ -1,5 +1,5 @@
 ---
 title: "Satoriz"
 url: /cormontreuil/satoriz/
-shop: Supermarkt
+shop: supermarché
 ---

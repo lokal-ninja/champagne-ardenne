@@ -1,5 +1,5 @@
 ---
 title: "Cormontreuil Coiffure"
 url: /cormontreuil/cormontreuil-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ballons-y"
 url: /reims/ballons-y/
-shop: Partyzubehör
+shop: fête
 ---

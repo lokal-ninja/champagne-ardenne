@@ -1,5 +1,5 @@
 ---
 title: "GARAGE BENJAMIN"
 url: /champfleury/garage-benjamin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

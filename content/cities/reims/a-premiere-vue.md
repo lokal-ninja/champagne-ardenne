@@ -1,5 +1,5 @@
 ---
 title: "À Première Vue"
 url: /reims/a-premiere-vue/
-shop: Optiker
+shop: opticien
 ---

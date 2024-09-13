@@ -1,5 +1,5 @@
 ---
 title: "Techni'Color"
 url: /marigny-le-chatel/technicolor/
-shop: Friseur
+shop: coiffeur
 ---

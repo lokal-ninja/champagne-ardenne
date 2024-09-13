@@ -1,5 +1,5 @@
 ---
 title: "Leader Price"
 url: /cormontreuil/leader-price/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /thillois/jardiland/
-shop: Garten-Center
+shop: centre de jardinage
 ---

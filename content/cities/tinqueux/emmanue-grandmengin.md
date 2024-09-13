@@ -1,5 +1,5 @@
 ---
 title: "Emmanue Grandmengin"
 url: /tinqueux/emmanue-grandmengin/
-shop: Schokolade
+shop: chocolat
 ---

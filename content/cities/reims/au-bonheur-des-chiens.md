@@ -1,5 +1,5 @@
 ---
 title: "au bonheur des chiens"
 url: /reims/au-bonheur-des-chiens/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

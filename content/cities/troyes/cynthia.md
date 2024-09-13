@@ -1,5 +1,5 @@
 ---
 title: "Cynthia"
 url: /troyes/cynthia/
-shop: Friseur
+shop: coiffeur
 ---

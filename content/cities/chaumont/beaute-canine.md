@@ -1,5 +1,5 @@
 ---
 title: "Beauté Canine"
 url: /chaumont/beaute-canine/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

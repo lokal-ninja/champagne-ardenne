@@ -1,5 +1,5 @@
 ---
 title: "Carter-Cash"
 url: /reims/carter-cash/
-shop: Autoteile
+shop: pièces de voitures
 ---

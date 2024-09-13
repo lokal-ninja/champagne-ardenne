@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /fismes/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

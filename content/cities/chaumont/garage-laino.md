@@ -1,5 +1,5 @@
 ---
 title: "Garage Laino"
 url: /chaumont/garage-laino/
-shop: Autohaus
+shop: voiture
 ---

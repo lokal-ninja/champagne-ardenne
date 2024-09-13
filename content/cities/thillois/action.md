@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /thillois/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

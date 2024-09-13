@@ -1,5 +1,5 @@
 ---
 title: "JH Fleurs"
 url: /tinqueux/jh-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

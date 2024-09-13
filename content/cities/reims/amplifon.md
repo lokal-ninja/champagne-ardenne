@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
 url: /reims/amplifon/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

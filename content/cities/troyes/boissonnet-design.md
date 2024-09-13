@@ -1,5 +1,5 @@
 ---
 title: "Boissonnet Design"
 url: /troyes/boissonnet-design/
-shop: Schmuck
+shop: bijoux
 ---

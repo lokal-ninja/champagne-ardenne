@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /revin/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

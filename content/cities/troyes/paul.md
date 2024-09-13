@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /troyes/paul/
-shop: Bäckerei
+shop: boulangerie
 ---

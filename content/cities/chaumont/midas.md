@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /chaumont/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

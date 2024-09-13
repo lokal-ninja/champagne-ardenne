@@ -1,5 +1,5 @@
 ---
 title: "JARDI'FIM"
 url: /fismes/jardifim/
-shop: Garten-Center
+shop: centre de jardinage
 ---

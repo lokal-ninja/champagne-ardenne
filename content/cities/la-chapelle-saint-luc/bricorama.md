@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /la-chapelle-saint-luc/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

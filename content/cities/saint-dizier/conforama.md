@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /saint-dizier/conforama/
-shop: Möbel
+shop: meubles
 ---

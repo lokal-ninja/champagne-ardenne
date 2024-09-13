@@ -1,5 +1,5 @@
 ---
 title: "Giamino"
 url: /sedan/giamino/
-shop: Fahrrad
+shop: vélo
 ---

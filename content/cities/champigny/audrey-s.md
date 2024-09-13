@@ -1,5 +1,5 @@
 ---
 title: "Audrey.S"
 url: /champigny/audrey-s/
-shop: Friseur
+shop: coiffeur
 ---

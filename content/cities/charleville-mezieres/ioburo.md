@@ -1,5 +1,5 @@
 ---
 title: "iOBURO"
 url: /charleville-mezieres/ioburo/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

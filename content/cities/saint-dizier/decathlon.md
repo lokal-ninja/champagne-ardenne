@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /saint-dizier/decathlon/
-shop: Sport
+shop: sports
 ---

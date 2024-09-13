@@ -1,5 +1,5 @@
 ---
 title: "Jacob Delafon"
 url: /reims/jacob-delafon/
-shop: Allgemein
+shop: shop
 ---

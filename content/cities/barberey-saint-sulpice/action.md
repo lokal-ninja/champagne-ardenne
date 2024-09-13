@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /barberey-saint-sulpice/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

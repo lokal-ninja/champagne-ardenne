@@ -1,5 +1,5 @@
 ---
 title: "RESOTAINER Troyes / Ste Savine"
 url: /sainte-savine/resotainer-troyes-ste-savine/
-shop: Mieten
+shop: location de stockage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Canin"
 url: /fismes/le-canin/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

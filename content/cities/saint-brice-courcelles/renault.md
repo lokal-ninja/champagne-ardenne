@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /saint-brice-courcelles/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

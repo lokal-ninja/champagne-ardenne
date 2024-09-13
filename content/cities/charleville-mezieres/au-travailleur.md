@@ -1,5 +1,5 @@
 ---
 title: "Au Travailleur"
 url: /charleville-mezieres/au-travailleur/
-shop: Kleidung
+shop: vêtements
 ---

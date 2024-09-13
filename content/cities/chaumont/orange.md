@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /chaumont/orange/
-shop: Handy
+shop: téléphone portable
 ---

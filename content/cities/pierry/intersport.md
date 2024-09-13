@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /pierry/intersport/
-shop: Sport
+shop: sports
 ---

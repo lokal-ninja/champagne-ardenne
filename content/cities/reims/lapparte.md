@@ -1,5 +1,5 @@
 ---
 title: "L'apparté"
 url: /reims/lapparte/
-shop: Friseur
+shop: coiffeur
 ---

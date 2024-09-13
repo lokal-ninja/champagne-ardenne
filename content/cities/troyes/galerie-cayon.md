@@ -1,5 +1,5 @@
 ---
 title: "Galerie Cayon"
 url: /troyes/galerie-cayon/
-shop: Kunst
+shop: art
 ---

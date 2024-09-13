@@ -1,5 +1,5 @@
 ---
 title: "Didier Graillot"
 url: /chaumont/didier-graillot/
-shop: Metzgerei
+shop: boucherie
 ---

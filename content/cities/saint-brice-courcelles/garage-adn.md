@@ -1,5 +1,5 @@
 ---
 title: "Garage ADN"
 url: /saint-brice-courcelles/garage-adn/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

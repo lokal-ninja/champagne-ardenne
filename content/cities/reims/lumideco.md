@@ -1,5 +1,5 @@
 ---
 title: "Lumideco"
 url: /reims/lumideco/
-shop: Lampen
+shop: lampes
 ---

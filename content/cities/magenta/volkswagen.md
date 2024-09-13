@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /magenta/volkswagen/
-shop: Autohaus
+shop: voiture
 ---

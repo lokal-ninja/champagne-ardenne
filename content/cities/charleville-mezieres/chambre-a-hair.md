@@ -1,5 +1,5 @@
 ---
 title: "Chambre a Hair"
 url: /charleville-mezieres/chambre-a-hair/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Just'un'Tif"
 url: /marigny-le-chatel/justuntif/
-shop: Friseur
+shop: coiffeur
 ---

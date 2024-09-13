@@ -1,5 +1,5 @@
 ---
 title: "Grain de Malice"
 url: /saint-dizier/grain-de-malice/
-shop: Kleidung
+shop: vêtements
 ---
