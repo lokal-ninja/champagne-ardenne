@@ -4,8 +4,8 @@ latitude: 48.3082
 longitude: 4.06836
 postcode: "10000"
 city: Troyes
-street: "Rue de Preize"
-housenumber: 126
-phone: "+33 3 25 76 13 33"
-opening_hours: "Mo-Tu,Th-Su 06:00-20:00"
-website: "http://www.boulangerie-plique.fr/"
+street: Rue de Preize
+housenumber: "126"
+phone: +33 3 25 76 13 33
+opening_hours: Mo-Tu,Th-Su 06:00-20:00
+website: http://www.boulangerie-plique.fr/

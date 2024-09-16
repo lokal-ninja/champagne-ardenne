@@ -1,11 +1,11 @@
 id: 434481489
-type: way
+type: node
 latitude: 48.2944
 longitude: 4.13932
 postcode: "10410"
 city: Saint-Parres-aux-Tertres
-street: "Rue Henri Farman"
-housenumber: 13
+street: Rue Henri Farman
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

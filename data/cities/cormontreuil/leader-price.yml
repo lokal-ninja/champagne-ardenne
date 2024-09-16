@@ -1,11 +1,11 @@
 id: 86584204
-type: way
+type: node
 latitude: 49.21611
 longitude: 4.04416
 postcode: "51350"
 city: Cormontreuil
-street: "Rue des Laps"
-housenumber: 27
-phone: "+33 3 26 82 45 32"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.leaderprice.fr/"
+street: Rue des Laps
+housenumber: "27"
+phone: +33 3 26 82 45 32
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.leaderprice.fr/

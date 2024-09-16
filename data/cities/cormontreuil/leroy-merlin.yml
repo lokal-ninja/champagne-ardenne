@@ -1,11 +1,11 @@
 id: 474571256
-type: way
+type: node
 latitude: 49.21217
 longitude: 4.06261
 postcode: "51350"
 city: Cormontreuil
-street: "Avenue des Goisses"
-housenumber: 
-phone: "+33 3 26 09 82 60"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leroymerlin.fr/magasins/cormontreuil-reims.html"
+street: Avenue des Goisses
+housenumber: ""
+phone: +33 3 26 09 82 60
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leroymerlin.fr/magasins/cormontreuil-reims.html

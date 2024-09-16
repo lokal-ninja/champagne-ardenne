@@ -1,11 +1,11 @@
 id: 664808407
-type: way
+type: node
 latitude: 49.2622
 longitude: 4.02576
 postcode: "51100"
 city: Reims
-street: "Rue Marie-Clémence Fouriaux"
-housenumber: 3
+street: Rue Marie-Clémence Fouriaux
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

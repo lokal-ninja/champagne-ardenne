@@ -1,11 +1,11 @@
 id: 100439857
-type: way
+type: node
 latitude: 49.78065
 longitude: 4.6917
 postcode: "08000"
 city: Warcq
-street: "Boulevard Lucien Pierquin"
-housenumber: 11
-phone: "+33 1 81 09 78 25"
-opening_hours: "Mo-Sa 08:00-19:30; Su 08:30-12:30"
-website: "https://www.aldi.fr/magasins-et-horaires-d-ouverture.html/l/warcq/11-boulevard-lucien-pierquin/3435346"
+street: Boulevard Lucien Pierquin
+housenumber: "11"
+phone: +33 1 81 09 78 25
+opening_hours: Mo-Sa 08:00-19:30; Su 08:30-12:30
+website: https://www.aldi.fr/magasins-et-horaires-d-ouverture.html/l/warcq/11-boulevard-lucien-pierquin/3435346

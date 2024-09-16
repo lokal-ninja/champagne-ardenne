@@ -1,11 +1,11 @@
 id: 156702230
-type: way
+type: node
 latitude: 48.9548
 longitude: 4.33439
 postcode: "51000"
 city: Châlons-en-Champagne
-street: "Rue de la Planchette"
-housenumber: 2
+street: Rue de la Planchette
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.aldi.fr/"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.aldi.fr/

@@ -1,11 +1,11 @@
 id: 168196339
-type: way
+type: node
 latitude: 48.30711
 longitude: 4.07932
 postcode: "10000"
 city: Troyes
-street: "Rue François Serqueil"
-housenumber: 3
-phone: "+33 3 25 72 15 15"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-17:45"
+street: Rue François Serqueil
+housenumber: "3"
+phone: +33 3 25 72 15 15
+opening_hours: Mo-Fr 07:30-12:00, 13:30-17:45
 website: ""

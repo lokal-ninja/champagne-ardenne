@@ -4,8 +4,8 @@ latitude: 48.29692
 longitude: 5.14653
 postcode: "52320"
 city: Froncles
-street: "Rue des Écoles"
-housenumber: 1
+street: Rue des Écoles
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/express-froncles"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/express-froncles

@@ -1,11 +1,11 @@
 id: 1127376497
-type: way
+type: node
 latitude: 47.65425
 longitude: 5.28939
 postcode: "52190"
 city: Vaux-sous-Aubigny
-street: "Rue du Champ Miolin"
-housenumber: 
+street: Rue du Champ Miolin
+housenumber: ""
 phone: "+33325848950"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-12:30, 14:00-17:00"
+opening_hours: Mo 14:00-18:00; Tu-Fr 09:00-12:30, 14:00-18:00; Sa 09:00-12:30, 14:00-17:00
 website: ""

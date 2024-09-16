@@ -4,8 +4,8 @@ latitude: 48.10479
 longitude: 5.14423
 postcode: "52000"
 city: Chaumont
-street: "Avenue de la République"
-housenumber: 7
-phone: "+33 3 25 03 60 35"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.weldom.fr/weldom/nos-magasins/645.html"
+street: Avenue de la République
+housenumber: "7"
+phone: +33 3 25 03 60 35
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.weldom.fr/weldom/nos-magasins/645.html

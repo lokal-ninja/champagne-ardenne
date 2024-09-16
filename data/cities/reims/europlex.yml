@@ -4,8 +4,8 @@ latitude: 49.28653
 longitude: 4.00769
 postcode: "51100"
 city: Reims
-street: "Avenue Nationale"
-housenumber: 43
+street: Avenue Nationale
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "http://www.europlex.fr"
+website: http://www.europlex.fr

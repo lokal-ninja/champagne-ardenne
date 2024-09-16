@@ -4,8 +4,8 @@ latitude: 49.26134
 longitude: 3.96323
 postcode: "51370"
 city: Thillois
-street: "Rue des Acacias"
-housenumber: 1
-phone: "+33 3 26 82 32 62"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leroidumatelas.fr/marne/thillois"
+street: Rue des Acacias
+housenumber: "1"
+phone: +33 3 26 82 32 62
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leroidumatelas.fr/marne/thillois

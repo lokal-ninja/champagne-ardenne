@@ -1,11 +1,11 @@
 id: 168356453
-type: way
+type: node
 latitude: 48.33306
 longitude: 4.1035
 postcode: "10150"
 city: Lavau
-street: "Lieu dit Les Dames Blanches"
-housenumber: 
-phone: "+33 3 25 80 02 22"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.decathlon.fr/"
+street: Lieu dit Les Dames Blanches
+housenumber: ""
+phone: +33 3 25 80 02 22
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.decathlon.fr/

@@ -4,8 +4,8 @@ latitude: 48.62859
 longitude: 4.95843
 postcode: "52100"
 city: Saint-Dizier
-street: "Avenue Pierre Beregovoy"
-housenumber: 5
-phone: "+33 3 25 05 50 00"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Avenue Pierre Beregovoy
+housenumber: "5"
+phone: +33 3 25 05 50 00
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

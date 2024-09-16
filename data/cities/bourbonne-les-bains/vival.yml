@@ -1,11 +1,11 @@
 id: 64918384
-type: way
+type: node
 latitude: 47.95303
 longitude: 5.74907
 postcode: "52400"
 city: Bourbonne-les-Bains
-street: "Grande Rue"
-housenumber: 35
-phone: "+33 9 80 90 32 75"
-opening_hours: "Mo-Su 07:30-13:00, 15:00-19:30"
-website: "https://magasins.vival.fr/fr/s/vival-bourbonne-les-bains"
+street: Grande Rue
+housenumber: "35"
+phone: +33 9 80 90 32 75
+opening_hours: Mo-Su 07:30-13:00, 15:00-19:30
+website: https://magasins.vival.fr/fr/s/vival-bourbonne-les-bains

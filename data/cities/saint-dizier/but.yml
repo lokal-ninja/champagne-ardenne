@@ -1,11 +1,11 @@
 id: 235992439
-type: way
+type: node
 latitude: 48.62399
 longitude: 4.96759
 postcode: "52100"
 city: Saint-Dizier
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.77723
 longitude: 4.7354
 postcode: "08000"
 city: Montcy Saint Pierre
-street: "Place Montcy Saint-Pierre"
-housenumber: 7
-phone: "+33 9 71 21 87 46"
-opening_hours: "Mo,Th 17:30-19:00; We 12:00-19:00; Fr 13:00-19:00; Sa 10:00-12:00"
+street: Place Montcy Saint-Pierre
+housenumber: "7"
+phone: +33 9 71 21 87 46
+opening_hours: Mo,Th 17:30-19:00; We 12:00-19:00; Fr 13:00-19:00; Sa 10:00-12:00
 website: ""

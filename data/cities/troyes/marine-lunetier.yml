@@ -4,8 +4,8 @@ latitude: 48.2977
 longitude: 4.07516
 postcode: "10000"
 city: Troyes
-street: "Rue Georges Clemenceau"
-housenumber: 57
-phone: "+33 3 25 76 40 50"
-opening_hours: "Mo 14:30-19:00;Tu-Sa 10:00-19:00"
-website: "http://eye-like.fr/opticiens/marine-lunetier-opticien-troyes/"
+street: Rue Georges Clemenceau
+housenumber: "57"
+phone: +33 3 25 76 40 50
+opening_hours: Mo 14:30-19:00;Tu-Sa 10:00-19:00
+website: http://eye-like.fr/opticiens/marine-lunetier-opticien-troyes/

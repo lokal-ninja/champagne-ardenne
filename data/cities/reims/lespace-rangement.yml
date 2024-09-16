@@ -4,8 +4,8 @@ latitude: 49.25803
 longitude: 4.04057
 postcode: "51100"
 city: Reims
-street: "Avenue Jean Jaurès"
-housenumber: 19
-phone: "+33 3 26 40 14 48"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.espacerangement.com/"
+street: Avenue Jean Jaurès
+housenumber: "19"
+phone: +33 3 26 40 14 48
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00
+website: https://www.espacerangement.com/

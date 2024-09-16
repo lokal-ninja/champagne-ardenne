@@ -4,8 +4,8 @@ latitude: 48.29662
 longitude: 4.07572
 postcode: "10000"
 city: Troyes
-street: "Rue Raymond Poincaré"
-housenumber: 2
-phone: "+333 25 73 77 82"
-opening_hours: "Tu-We,Fr-Sa 09:00-18:30;Th 09:00-20:00"
+street: Rue Raymond Poincaré
+housenumber: "2"
+phone: +333 25 73 77 82
+opening_hours: Tu-We,Fr-Sa 09:00-18:30;Th 09:00-20:00
 website: ""

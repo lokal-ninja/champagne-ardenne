@@ -4,8 +4,8 @@ latitude: 49.25745
 longitude: 4.04294
 postcode: "51100"
 city: Reims
-street: "Rue de Cernay"
-housenumber: 24
+street: Rue de Cernay
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Su 07:00-21:00"
+opening_hours: Mo-Su 07:00-21:00
 website: ""

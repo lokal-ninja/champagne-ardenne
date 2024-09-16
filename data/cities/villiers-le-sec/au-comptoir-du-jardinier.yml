@@ -1,11 +1,11 @@
 id: 65070360
-type: way
+type: node
 latitude: 48.10184
 longitude: 5.06364
 postcode: "52000"
 city: Villiers-le-Sec
-street: "Rue des Jardins"
-housenumber: 
-phone: "+33 3 25 01 66 66"
-opening_hours: "Mo-Su 09:30-12:00,Mo-Su 14:00-19:00"
-website: "http://www.aucomptoirdujardinier.com"
+street: Rue des Jardins
+housenumber: ""
+phone: +33 3 25 01 66 66
+opening_hours: Mo-Su 09:30-12:00,Mo-Su 14:00-19:00
+website: http://www.aucomptoirdujardinier.com

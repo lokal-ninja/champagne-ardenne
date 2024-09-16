@@ -1,11 +1,11 @@
 id: 112608051
-type: way
+type: node
 latitude: 48.94286
 longitude: 4.38495
 postcode: "51000"
 city: Châlons-en-Champagne
-street: "Avenue du Président Roosevelt"
-housenumber: 
+street: Avenue du Président Roosevelt
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.croixdampierre.com/"
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.croixdampierre.com/

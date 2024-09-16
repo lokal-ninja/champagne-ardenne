@@ -1,11 +1,11 @@
 id: 102913843
-type: way
+type: node
 latitude: 48.32742
 longitude: 4.11285
 postcode: "10150"
 city: Creney-près-Troyes
-street: "Rue Saint Aventin"
-housenumber: 
+street: Rue Saint Aventin
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

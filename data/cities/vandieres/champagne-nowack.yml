@@ -1,11 +1,11 @@
 id: 647209282
-type: way
+type: node
 latitude: 49.10662
 longitude: 3.73401
 postcode: "51700"
 city: Vandières
-street: "rue Bailly"
-housenumber: 10
-phone: "+33 3 26 58 02 69"
+street: rue Bailly
+housenumber: "10"
+phone: +33 3 26 58 02 69
 opening_hours: ""
-website: "http://www.champagne-nowack.com/"
+website: http://www.champagne-nowack.com/

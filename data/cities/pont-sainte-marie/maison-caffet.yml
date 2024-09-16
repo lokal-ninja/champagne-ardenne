@@ -1,11 +1,11 @@
 id: 548435083
-type: way
+type: node
 latitude: 48.31481
 longitude: 4.08278
 postcode: "10150"
 city: Pont-Sainte-Marie
-street: "Avenue des Tirverts"
+street: Avenue des Tirverts
 housenumber: 3bis
-phone: "+33 3 25 80 38 38"
-opening_hours: "Tu-Th 09:00-12:30,14:00-17:30; Fr 09:00-13:00,14:00-18:00; Sa 08:00-18:00"
-website: "https://www.maison-caffet.com/maison-caffet-pont-sainte-marie"
+phone: +33 3 25 80 38 38
+opening_hours: Tu-Th 09:00-12:30,14:00-17:30; Fr 09:00-13:00,14:00-18:00; Sa 08:00-18:00
+website: https://www.maison-caffet.com/maison-caffet-pont-sainte-marie

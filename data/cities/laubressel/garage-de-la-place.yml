@@ -1,11 +1,11 @@
 id: 433821446
-type: way
+type: node
 latitude: 48.29818
 longitude: 4.21282
 postcode: "10270"
 city: Laubressel
-street: "Rue du Haut"
-housenumber: 63
+street: Rue du Haut
+housenumber: "63"
 phone: ""
 opening_hours: ""
 website: ""

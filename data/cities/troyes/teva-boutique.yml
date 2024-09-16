@@ -4,8 +4,8 @@ latitude: 48.29826
 longitude: 4.07604
 postcode: "10000"
 city: Troyes
-street: "Rue Georges Clemenceau"
-housenumber: 48
-phone: "+333 25 73 49 32"
+street: Rue Georges Clemenceau
+housenumber: "48"
+phone: +333 25 73 49 32
 opening_hours: ""
-website: "http://www.teva-boutique.fr/fiche-infos-30-teva_boutique_a_troyes_nos_horaires_d-ouverture.html"
+website: http://www.teva-boutique.fr/fiche-infos-30-teva_boutique_a_troyes_nos_horaires_d-ouverture.html

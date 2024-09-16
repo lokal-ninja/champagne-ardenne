@@ -1,11 +1,11 @@
 id: 659235465
-type: way
+type: node
 latitude: 48.94373
 longitude: 4.38834
 postcode: "51000"
 city: Châlons-en-Champagne
-street: "Avenue du Président Roosevelt"
-housenumber: 80
-phone: "+33 3 26 22 47 31"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.t-a-o.com/"
+street: Avenue du Président Roosevelt
+housenumber: "80"
+phone: +33 3 26 22 47 31
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.t-a-o.com/

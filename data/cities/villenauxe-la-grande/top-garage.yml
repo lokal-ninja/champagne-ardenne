@@ -1,11 +1,11 @@
 id: 707043594
-type: way
+type: node
 latitude: 48.58372
 longitude: 3.56165
 postcode: "10370"
 city: Villenauxe-la-Grande
-street: "Rue de Plessis"
-housenumber: 
-phone: "+33 3 25 21 30 52"
-opening_hours: "Tu-Sa 08:15-19:00; Mo 14:00-19:00"
+street: Rue de Plessis
+housenumber: ""
+phone: +33 3 25 21 30 52
+opening_hours: Tu-Sa 08:15-19:00; Mo 14:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.77455
 longitude: 4.7219
 postcode: "08000"
 city: Charleville-Mézières
-street: "Rue d'Aubilly"
-housenumber: 3
+street: Rue d'Aubilly
+housenumber: "3"
 phone: ""
-opening_hours: "Fr,Sa 09:30-12:00,14:30-18:30"
+opening_hours: Fr,Sa 09:30-12:00,14:30-18:30
 website: ""

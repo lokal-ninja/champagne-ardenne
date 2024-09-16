@@ -1,11 +1,11 @@
 id: 655416790
-type: way
+type: node
 latitude: 49.28494
 longitude: 4.01484
 postcode: "51100"
 city: Reims
-street: "Rue Bertrand Russell"
-housenumber: 3
+street: Rue Bertrand Russell
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

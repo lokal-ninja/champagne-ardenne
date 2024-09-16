@@ -4,8 +4,8 @@ latitude: 48.29623
 longitude: 4.07451
 postcode: "10000"
 city: Troyes
-street: "Rue Émile Zola"
-housenumber: 71
-phone: "+33 3 25 73 10 78"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:30-19:30"
-website: "https://www.monoprix.fr/113.html"
+street: Rue Émile Zola
+housenumber: "71"
+phone: +33 3 25 73 10 78
+opening_hours: Mo-Sa 08:00-20:00; Su 08:30-19:30
+website: https://www.monoprix.fr/113.html

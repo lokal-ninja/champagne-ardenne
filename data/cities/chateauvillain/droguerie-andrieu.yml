@@ -4,8 +4,8 @@ latitude: 48.03559
 longitude: 4.91871
 postcode: "52120"
 city: Châteauvillain
-street: "Rue de Penthièvre"
-housenumber: 6
-phone: "+33 3 25 32 91 13"
-opening_hours: "Mo-Sa 06:00-12:30,13:30-19:30; Su 06:00-12:45"
-website: "https://www.droguerie-andrieu.fr/"
+street: Rue de Penthièvre
+housenumber: "6"
+phone: +33 3 25 32 91 13
+opening_hours: Mo-Sa 06:00-12:30,13:30-19:30; Su 06:00-12:45
+website: https://www.droguerie-andrieu.fr/

@@ -4,8 +4,8 @@ latitude: 49.25692
 longitude: 4.03514
 postcode: "51100"
 city: Reims
-street: "Rue Courmeaux"
-housenumber: 7
-phone: "+33 3 26 03 45 29"
-opening_hours: "Tu-Sa 10:00-20:00"
-website: "https://www.aubonmanger.fr"
+street: Rue Courmeaux
+housenumber: "7"
+phone: +33 3 26 03 45 29
+opening_hours: Tu-Sa 10:00-20:00
+website: https://www.aubonmanger.fr

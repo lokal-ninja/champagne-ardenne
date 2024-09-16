@@ -1,11 +1,11 @@
 id: 448570536
-type: way
+type: node
 latitude: 47.84335
 longitude: 5.3311
 postcode: "52200"
 city: Langres
-street: "Rue Louis Lépitre"
-housenumber: 
+street: Rue Louis Lépitre
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/langres/"
+website: https://www.nozarrivages.com/magasin/langres/

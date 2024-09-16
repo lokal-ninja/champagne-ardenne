@@ -1,11 +1,11 @@
 id: 639747569
-type: way
+type: node
 latitude: 48.04399
 longitude: 5.20748
 postcode: "52800"
 city: Foulain
-street: "Rue des Pichaux"
-housenumber: 7
-phone: "+33 3 25 31 20 01"
-opening_hours: "We 14:00-17:00,Fr-Su 14:00-17:00"
-website: "http://emmaus52.blogspot.com/p/a.html"
+street: Rue des Pichaux
+housenumber: "7"
+phone: +33 3 25 31 20 01
+opening_hours: We 14:00-17:00,Fr-Su 14:00-17:00
+website: http://emmaus52.blogspot.com/p/a.html

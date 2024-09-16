@@ -1,11 +1,11 @@
 id: 87861889
-type: way
+type: node
 latitude: 49.2889
 longitude: 4.02345
 postcode: "51100"
 city: Reims
-street: "Rue Joanne Broche"
-housenumber: 
-phone: "+33 326778262"
-opening_hours: "Mo-Sa 08:00-19:00"
+street: Rue Joanne Broche
+housenumber: ""
+phone: +33 326778262
+opening_hours: Mo-Sa 08:00-19:00
 website: ""

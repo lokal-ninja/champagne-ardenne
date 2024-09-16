@@ -1,11 +1,11 @@
 id: 63812683
-type: way
+type: node
 latitude: 48.10723
 longitude: 5.15057
 postcode: "52000"
 city: Chaumont
-street: "Rue du Vieux Moulin"
-housenumber: 2
+street: Rue du Vieux Moulin
+housenumber: "2"
 phone: ""
-opening_hours: "09:30-19:30"
-website: "https://www.nozarrivages.com/magasin/chaumont/"
+opening_hours: 09:30-19:30
+website: https://www.nozarrivages.com/magasin/chaumont/

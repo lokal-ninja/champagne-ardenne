@@ -1,11 +1,11 @@
 id: 428975153
-type: way
+type: node
 latitude: 48.27301
 longitude: 3.81321
 postcode: "10190"
 city: Estissac
-street: "Rue Jean Hector"
-housenumber: 36
+street: Rue Jean Hector
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

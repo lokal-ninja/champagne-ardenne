@@ -4,8 +4,8 @@ latitude: 48.29766
 longitude: 4.07509
 postcode: "10000"
 city: Troyes
-street: "Rue Georges Clemenceau"
-housenumber: 59
-phone: "+333 25 73 03 62"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00"
-website: "https://www.monsallier-photo.fr/"
+street: Rue Georges Clemenceau
+housenumber: "59"
+phone: +333 25 73 03 62
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00
+website: https://www.monsallier-photo.fr/

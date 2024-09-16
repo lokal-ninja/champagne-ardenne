@@ -4,8 +4,8 @@ latitude: 49.77082
 longitude: 4.71871
 postcode: "08000"
 city: Charleville-Mézières
-street: "Boulevard Gambetta"
-housenumber: 2
-phone: "+33 3 24 56 47 47"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 08:00-17:00"
+street: Boulevard Gambetta
+housenumber: "2"
+phone: +33 3 24 56 47 47
+opening_hours: Tu-Fr 09:00-19:00; Sa 08:00-17:00
 website: ""

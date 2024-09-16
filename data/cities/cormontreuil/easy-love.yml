@@ -1,11 +1,11 @@
 id: 86583828
-type: way
+type: node
 latitude: 49.21261
 longitude: 4.04951
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Lucien Trousset"
-housenumber: 2
-phone: "+33 3 26 85 96 00"
-opening_hours: "Mo 14:00-19:30; Tu-Sa 10:00-19:30"
-website: "http://www.easy-love.fr"
+street: Rue Lucien Trousset
+housenumber: "2"
+phone: +33 3 26 85 96 00
+opening_hours: Mo 14:00-19:30; Tu-Sa 10:00-19:30
+website: http://www.easy-love.fr

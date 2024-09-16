@@ -1,11 +1,11 @@
 id: 84164433
-type: way
+type: node
 latitude: 49.25711
 longitude: 3.964
 postcode: "51370"
 city: Thillois
-street: "Rue des Acacias"
-housenumber: 1
-phone: "+33 9 69 36 20 06"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.ikea.fr"
+street: Rue des Acacias
+housenumber: "1"
+phone: +33 9 69 36 20 06
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.ikea.fr

@@ -4,8 +4,8 @@ latitude: 48.29178
 longitude: 4.07464
 postcode: "10000"
 city: Troyes
-street: "Avenue Pierre Brossolette"
-housenumber: 12
-phone: "+333 25 73 54 60"
-opening_hours: "Mo 08:30-12:30,13:30-19:30;Tu-Fr 08:30-19:30;Su 08:00-13:00"
-website: "http://www.anemone-fleurs.fr"
+street: Avenue Pierre Brossolette
+housenumber: "12"
+phone: +333 25 73 54 60
+opening_hours: Mo 08:30-12:30,13:30-19:30;Tu-Fr 08:30-19:30;Su 08:00-13:00
+website: http://www.anemone-fleurs.fr

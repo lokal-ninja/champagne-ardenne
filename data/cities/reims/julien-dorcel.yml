@@ -4,8 +4,8 @@ latitude: 49.24202
 longitude: 4.0847
 postcode: "51100"
 city: Reims
-street: "Rue Jacques de la Giraudière"
-housenumber: 
+street: Rue Jacques de la Giraudière
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.bijouterie-reims.com/"
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.bijouterie-reims.com/

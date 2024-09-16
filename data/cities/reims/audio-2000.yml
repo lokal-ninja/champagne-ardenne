@@ -4,8 +4,8 @@ latitude: 49.25787
 longitude: 4.04127
 postcode: "51100"
 city: Reims
-street: "Rue de Cernay"
-housenumber: 4
-phone: "+33 3 26 46 17 28"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00"
-website: "https://www.audio2000.fr/audioprothesiste-reims/"
+street: Rue de Cernay
+housenumber: "4"
+phone: +33 3 26 46 17 28
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00
+website: https://www.audio2000.fr/audioprothesiste-reims/

@@ -1,11 +1,11 @@
 id: 476732273
-type: way
+type: node
 latitude: 48.65721
 longitude: 3.69532
 postcode: "51120"
 city: Barbonne-Fayel
-street: "Grande Rue"
-housenumber: 44
+street: Grande Rue
+housenumber: "44"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:00,14:00-18:00;Sa 09:00-16:00"
+opening_hours: Tu-Fr 09:30-12:00,14:00-18:00;Sa 09:00-16:00
 website: ""

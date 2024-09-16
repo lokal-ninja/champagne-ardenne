@@ -1,11 +1,11 @@
 id: 541721433
-type: way
+type: node
 latitude: 49.69943
 longitude: 4.92416
 postcode: "08200"
 city: Sedan
-street: "Avenue de la Marne"
-housenumber: 22
-phone: "+33 9 77 40 40 44"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://www.aldi.fr/magasins-et-horaires-d-ouverture.html/l/sedan/22-avenue-de-la-marne/3435861"
+street: Avenue de la Marne
+housenumber: "22"
+phone: +33 9 77 40 40 44
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://www.aldi.fr/magasins-et-horaires-d-ouverture.html/l/sedan/22-avenue-de-la-marne/3435861

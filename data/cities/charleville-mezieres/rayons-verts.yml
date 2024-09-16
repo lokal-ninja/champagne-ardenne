@@ -4,8 +4,8 @@ latitude: 49.7692
 longitude: 4.71979
 postcode: "08000"
 city: Charleville-Mézières
-street: "Cours Aristide Briand"
-housenumber: 45
-phone: "+33 3 24 53 02 86"
-opening_hours: "Mo 14:30-19:00; Tu-Fr 09:00-12:15,14:00-19:00; We,Sa 09:00-12:15,14:30-19:00"
-website: "https://www.rayons-verts-charleville.com/"
+street: Cours Aristide Briand
+housenumber: "45"
+phone: +33 3 24 53 02 86
+opening_hours: Mo 14:30-19:00; Tu-Fr 09:00-12:15,14:00-19:00; We,Sa 09:00-12:15,14:30-19:00
+website: https://www.rayons-verts-charleville.com/

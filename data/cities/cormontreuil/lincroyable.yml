@@ -1,11 +1,11 @@
 id: 86584841
-type: way
+type: node
 latitude: 49.2148
 longitude: 4.04286
 postcode: "51350"
 city: Cormontreuil
-street: "Centre Commercial régional Reims-Cormontreuil"
-housenumber: 
-phone: "+33 3 26 50 73 95"
-opening_hours: "Mo-Fr 10:00-12:45,13:45-19:00; Sa 10:00-19:00"
-website: "https://www.lincroyable.fr/"
+street: Centre Commercial régional Reims-Cormontreuil
+housenumber: ""
+phone: +33 3 26 50 73 95
+opening_hours: Mo-Fr 10:00-12:45,13:45-19:00; Sa 10:00-19:00
+website: https://www.lincroyable.fr/

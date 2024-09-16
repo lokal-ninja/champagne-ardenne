@@ -4,8 +4,8 @@ latitude: 49.26432
 longitude: 3.99099
 postcode: "51370"
 city: Saint-Brice-Courcelles
-street: "Route de Reims"
-housenumber: 7
-phone: "+33 3 10 16 47 00"
-opening_hours: "Tu-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-12:30, 14:00-18:00"
-website: "https://www.moilutin-cycles.fr/"
+street: Route de Reims
+housenumber: "7"
+phone: +33 3 10 16 47 00
+opening_hours: Tu-Fr 10:00-12:30, 14:00-19:00; Sa 10:00-12:30, 14:00-18:00
+website: https://www.moilutin-cycles.fr/

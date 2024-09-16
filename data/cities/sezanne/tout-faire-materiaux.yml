@@ -1,11 +1,11 @@
 id: 704184473
-type: way
+type: node
 latitude: 48.71536
 longitude: 3.73572
 postcode: "51120"
 city: Sézanne
-street: "Rue de l'Ormelot"
-housenumber: 38
+street: Rue de l'Ormelot
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

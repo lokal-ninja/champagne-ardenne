@@ -4,8 +4,8 @@ latitude: 49.2579
 longitude: 4.04115
 postcode: "51100"
 city: Reims
-street: "Rue de Cernay"
-housenumber: 2
-phone: "+33 3 26 40 32 93"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00"
-website: "https://www.fichet-pointfort.com/"
+street: Rue de Cernay
+housenumber: "2"
+phone: +33 3 26 40 32 93
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00
+website: https://www.fichet-pointfort.com/

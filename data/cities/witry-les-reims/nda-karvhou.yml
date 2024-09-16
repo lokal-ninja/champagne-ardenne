@@ -1,11 +1,11 @@
 id: 878652294
-type: way
+type: node
 latitude: 49.29801
 longitude: 4.12583
 postcode: "51420"
 city: Witry-lès-Reims
-street: "Rue du Moulin Florent"
-housenumber: 5
+street: Rue du Moulin Florent
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

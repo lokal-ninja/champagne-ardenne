@@ -1,11 +1,11 @@
 id: 86585203
-type: way
+type: node
 latitude: 49.21439
 longitude: 4.04414
 postcode: "51350"
 city: Cormontreuil
-street: "Les Parques Zone Commerciale"
-housenumber: 
-phone: "+33 8 92 01 10 10"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.darty.com/"
+street: Les Parques Zone Commerciale
+housenumber: ""
+phone: +33 8 92 01 10 10
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.darty.com/

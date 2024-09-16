@@ -4,8 +4,8 @@ latitude: 48.32109
 longitude: 4.06581
 postcode: "10600"
 city: La Chapelle-Saint-Luc
-street: "Avenue Aristide Briand"
-housenumber: 39
-phone: "+33 3 25800476"
-opening_hours: "Mo off; Tu-Fr 10:00-13:00,14:00-18:30; Sa 10:00-18:00; Su,PH off"
-website: "https://www.meca-mx.fr"
+street: Avenue Aristide Briand
+housenumber: "39"
+phone: +33 3 25800476
+opening_hours: Mo off; Tu-Fr 10:00-13:00,14:00-18:30; Sa 10:00-18:00; Su,PH off
+website: https://www.meca-mx.fr

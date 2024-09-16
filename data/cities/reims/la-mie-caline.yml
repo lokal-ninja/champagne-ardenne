@@ -4,8 +4,8 @@ latitude: 49.25392
 longitude: 4.02793
 postcode: "51100"
 city: Reims
-street: "Rue Marx Dormoy"
-housenumber: 19
-phone: "+33 3 26 50 80 86"
-opening_hours: "Mo-Su 06:30-20:00"
-website: "https://www.lamiecaline.com/boutiques/reims/"
+street: Rue Marx Dormoy
+housenumber: "19"
+phone: +33 3 26 50 80 86
+opening_hours: Mo-Su 06:30-20:00
+website: https://www.lamiecaline.com/boutiques/reims/

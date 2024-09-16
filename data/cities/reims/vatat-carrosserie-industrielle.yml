@@ -1,11 +1,11 @@
 id: 655464097
-type: way
+type: node
 latitude: 49.28627
 longitude: 4.01774
 postcode: "51100"
 city: Reims
-street: "Avenue Benoît Frachon"
-housenumber: 10
+street: Avenue Benoît Frachon
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.vatat.fr/"
+website: https://www.vatat.fr/

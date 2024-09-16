@@ -4,8 +4,8 @@ latitude: 48.32952
 longitude: 4.03863
 postcode: "10600"
 city: Barberey-Saint-Sulpice
-street: "Route de Troyes"
-housenumber: 14
-phone: "+33 3 25 76 66 18"
-opening_hours: "Mo 14:00-19:00; Tu-We 10:00-12:00, 14:00-19:00; Th-Sa 10:00-19:00"
-website: "http://www.easy-love.fr"
+street: Route de Troyes
+housenumber: "14"
+phone: +33 3 25 76 66 18
+opening_hours: Mo 14:00-19:00; Tu-We 10:00-12:00, 14:00-19:00; Th-Sa 10:00-19:00
+website: http://www.easy-love.fr

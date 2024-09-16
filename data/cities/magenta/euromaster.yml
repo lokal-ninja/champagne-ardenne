@@ -1,11 +1,11 @@
 id: 162668200
-type: way
+type: node
 latitude: 49.05673
 longitude: 3.96546
 postcode: "51530"
 city: Magenta
-street: "Rue Alfred Anatole Thevenet"
-housenumber: 94
+street: Rue Alfred Anatole Thevenet
+housenumber: "94"
 phone: ""
 opening_hours: ""
 website: ""

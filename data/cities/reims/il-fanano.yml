@@ -4,8 +4,8 @@ latitude: 49.25689
 longitude: 4.03505
 postcode: "51100"
 city: Reims
-street: "Rue Courmeaux"
-housenumber: 5
-phone: "+33 3 26 85 55 26"
-opening_hours: "Tu-Sa 09:30-13:30,15:00-19:00"
-website: "https://ilfanano.fr"
+street: Rue Courmeaux
+housenumber: "5"
+phone: +33 3 26 85 55 26
+opening_hours: Tu-Sa 09:30-13:30,15:00-19:00
+website: https://ilfanano.fr

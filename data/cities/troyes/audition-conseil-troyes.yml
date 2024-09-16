@@ -4,8 +4,8 @@ latitude: 48.29045
 longitude: 4.07634
 postcode: "10000"
 city: Troyes
-street: "Rue André Beury"
-housenumber: 65
+street: Rue André Beury
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30"
-website: "http://auditionconseil-delacour.fr"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30
+website: http://auditionconseil-delacour.fr

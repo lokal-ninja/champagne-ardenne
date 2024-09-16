@@ -1,11 +1,11 @@
 id: 64434469
-type: way
+type: node
 latitude: 49.39311
 longitude: 4.68804
 postcode: "08400"
 city: Vouziers
-street: "Rue du Blanc-Mont"
-housenumber: 24
+street: Rue du Blanc-Mont
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

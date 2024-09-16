@@ -4,8 +4,8 @@ latitude: 48.02715
 longitude: 5.34445
 postcode: "52800"
 city: Nogent
-street: "Carnot"
-housenumber: 35
+street: Carnot
+housenumber: "35"
 phone: ""
-opening_hours: "Jan-Jun,Sep-Dec: Tu-Sa 10:00-12:00"
+opening_hours: 'Jan-Jun,Sep-Dec: Tu-Sa 10:00-12:00'
 website: ""

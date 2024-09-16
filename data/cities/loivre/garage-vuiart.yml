@@ -4,8 +4,8 @@ latitude: 49.3429
 longitude: 3.98707
 postcode: "51100"
 city: Loivre
-street: "Rue de Verdun"
-housenumber: 2
+street: Rue de Verdun
+housenumber: "2"
 phone: "+33326610105"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-17:30"
+opening_hours: Mo-Fr 08:00-12:00,13:30-17:30
 website: ""

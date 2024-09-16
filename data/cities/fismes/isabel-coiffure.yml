@@ -4,8 +4,8 @@ latitude: 49.3074
 longitude: 3.68019
 postcode: "51170"
 city: Fismes
-street: "Place de l’Hôtel de Ville"
-housenumber: 36
-phone: "+33 3 26 07 97 53"
-opening_hours: "Tu-Fr 09:00-12:00,13:30-19:00; Sa 09:00-17:00"
+street: Place de l’Hôtel de Ville
+housenumber: "36"
+phone: +33 3 26 07 97 53
+opening_hours: Tu-Fr 09:00-12:00,13:30-19:00; Sa 09:00-17:00
 website: ""

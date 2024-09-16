@@ -1,11 +1,11 @@
 id: 68011525
-type: way
+type: node
 latitude: 48.32624
 longitude: 4.11032
 postcode: "10150"
 city: Pont-Sainte-Marie
-street: "Rue Marc Verdier"
-housenumber: 18
+street: Rue Marc Verdier
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

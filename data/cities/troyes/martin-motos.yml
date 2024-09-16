@@ -1,11 +1,11 @@
 id: 73136126
-type: way
+type: node
 latitude: 48.28769
 longitude: 4.07755
 postcode: "10000"
 city: Troyes
-street: "Avenue Pierre Brossolette"
-housenumber: 137
-phone: "+33 3 25 82 53 76"
-opening_hours: "Tu-Sa 09:00-12:00,14:00-19:00; Su,Mo,PH off"
-website: "https://martin-motos.fr"
+street: Avenue Pierre Brossolette
+housenumber: "137"
+phone: +33 3 25 82 53 76
+opening_hours: Tu-Sa 09:00-12:00,14:00-19:00; Su,Mo,PH off
+website: https://martin-motos.fr

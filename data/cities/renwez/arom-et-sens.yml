@@ -4,8 +4,8 @@ latitude: 49.83826
 longitude: 4.6032
 postcode: "08150"
 city: Renwez
-street: "Avenue des Martyrs de la Résistance"
-housenumber: 9
-phone: "+33 3 24 33 50 50"
-opening_hours: "Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00"
-website: "http://arom.et.sens.free.fr"
+street: Avenue des Martyrs de la Résistance
+housenumber: "9"
+phone: +33 3 24 33 50 50
+opening_hours: Mo-Fr 09:00-12:00,13:30-18:30; Sa 09:00-17:00
+website: http://arom.et.sens.free.fr

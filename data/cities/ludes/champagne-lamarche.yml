@@ -1,11 +1,11 @@
 id: 591805809
-type: way
+type: node
 latitude: 49.15722
 longitude: 4.08004
 postcode: "51500"
 city: Ludes
-street: "Rue des Flammées"
-housenumber: 4
-phone: "+33 3 26 61 13 52"
+street: Rue des Flammées
+housenumber: "4"
+phone: +33 3 26 61 13 52
 opening_hours: ""
-website: "https://www.champagnelamarche.fr/"
+website: https://www.champagnelamarche.fr/

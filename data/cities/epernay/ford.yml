@@ -1,11 +1,11 @@
 id: 155585435
-type: way
+type: node
 latitude: 49.0535
 longitude: 3.95537
 postcode: "51200"
 city: Épernay
-street: "Avenue du Maréchal Joffre"
-housenumber: 
-phone: "+33 3 26 55 59 65"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-12:00"
-website: "https://www.groupesaintchristophe.fr/"
+street: Avenue du Maréchal Joffre
+housenumber: ""
+phone: +33 3 26 55 59 65
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-12:00
+website: https://www.groupesaintchristophe.fr/

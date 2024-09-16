@@ -4,8 +4,8 @@ latitude: 49.2516
 longitude: 3.98497
 postcode: "51430"
 city: Tinqueux
-street: "Rue Aristide Boucicaut"
-housenumber: 2
-phone: "+33 3 26 49 10 74"
-opening_hours: "Tu-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:00, 14:00-17:00"
-website: "https://neosyst-tinqueux.fr/"
+street: Rue Aristide Boucicaut
+housenumber: "2"
+phone: +33 3 26 49 10 74
+opening_hours: Tu-Fr 09:30-12:00, 14:00-19:00; Sa 09:30-12:00, 14:00-17:00
+website: https://neosyst-tinqueux.fr/

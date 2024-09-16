@@ -1,11 +1,11 @@
 id: 63805500
-type: way
+type: node
 latitude: 48.12292
 longitude: 5.14965
 postcode: "52000"
 city: Chaumont
 street: ""
-housenumber: 
-phone: "+33 3 25 03 48 57"
-opening_hours: "24/7"
-website: "http://www.e-leclerc.com"
+housenumber: ""
+phone: +33 3 25 03 48 57
+opening_hours: 24/7
+website: http://www.e-leclerc.com

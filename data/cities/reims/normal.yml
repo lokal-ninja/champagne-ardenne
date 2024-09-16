@@ -4,8 +4,8 @@ latitude: 49.25299
 longitude: 4.02715
 postcode: "51100"
 city: Reims
-street: "Rue de Vesle"
-housenumber: 76
-phone: "+33 6 15 52 98 34"
-opening_hours: "Mo-Sa 09:00-19:30"
+street: Rue de Vesle
+housenumber: "76"
+phone: +33 6 15 52 98 34
+opening_hours: Mo-Sa 09:00-19:30
 website: ""

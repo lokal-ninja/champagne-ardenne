@@ -1,11 +1,11 @@
 id: 144257231
-type: way
+type: node
 latitude: 49.08979
 longitude: 4.90095
 postcode: "51800"
 city: Sainte-Menehould
-street: "Avenue de la Gare"
-housenumber: 
+street: Avenue de la Gare
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

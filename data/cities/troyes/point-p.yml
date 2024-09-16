@@ -1,11 +1,11 @@
 id: 168196340
-type: way
+type: node
 latitude: 48.30936
 longitude: 4.08156
 postcode: "10000"
 city: Troyes
-street: "Rue Louis Berthollet"
-housenumber: 1
-phone: "+33 3 25 83 26 60"
-opening_hours: "Mo-Fr 07:30-12:00, 13:30-18:00, Sa 09:00-12:00, 13:30-18:00"
-website: "https://www.pointp.fr/"
+street: Rue Louis Berthollet
+housenumber: "1"
+phone: +33 3 25 83 26 60
+opening_hours: Mo-Fr 07:30-12:00, 13:30-18:00, Sa 09:00-12:00, 13:30-18:00
+website: https://www.pointp.fr/

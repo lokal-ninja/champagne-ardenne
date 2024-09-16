@@ -4,8 +4,8 @@ latitude: 49.25581
 longitude: 4.03449
 postcode: "51100"
 city: Reims
-street: "Rue Bertin"
+street: Rue Bertin
 housenumber: 2 bis
-phone: "+33 3 51 56 89 38"
-opening_hours: "Sur rendez-vous"
-website: "https://mariagedessacres.fr/"
+phone: +33 3 51 56 89 38
+opening_hours: '"Sur rendez-vous"'
+website: https://mariagedessacres.fr/

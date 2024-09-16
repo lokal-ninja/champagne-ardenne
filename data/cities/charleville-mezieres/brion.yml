@@ -4,8 +4,8 @@ latitude: 49.77389
 longitude: 4.71973
 postcode: "08000"
 city: Charleville-Mézières
-street: "Rue de Mantoue"
-housenumber: 8
-phone: "+33 3 24 33 27 95"
-opening_hours: "Tu-Th 10:00-12:00,14:00-19:00; Fr,Sa 09:30-12:30,14:00-19:00"
-website: "https://www.brionchausseur.fr/"
+street: Rue de Mantoue
+housenumber: "8"
+phone: +33 3 24 33 27 95
+opening_hours: Tu-Th 10:00-12:00,14:00-19:00; Fr,Sa 09:30-12:30,14:00-19:00
+website: https://www.brionchausseur.fr/

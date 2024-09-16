@@ -1,11 +1,11 @@
 id: 196279978
-type: way
+type: node
 latitude: 48.72505
 longitude: 4.59843
 postcode: "51300"
 city: Vitry-le-François
-street: "Rue de la Jouette"
-housenumber: 4
+street: Rue de la Jouette
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/vitry-le-francois/"
+website: https://www.nozarrivages.com/magasin/vitry-le-francois/

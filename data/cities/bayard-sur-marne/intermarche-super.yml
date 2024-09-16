@@ -1,11 +1,11 @@
 id: 255028293
-type: way
+type: node
 latitude: 48.551
 longitude: 5.0728
 postcode: "52170"
 city: Bayard-sur-Marne
-street: "Rue de la Gare"
-housenumber: 
+street: Rue de la Gare
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

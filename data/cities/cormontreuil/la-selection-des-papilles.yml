@@ -4,8 +4,8 @@ latitude: 49.21292
 longitude: 4.04948
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Lucien Trousset"
-housenumber: 2
+street: Rue Lucien Trousset
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 09:00-12:30,14:00-19:00; Th-Sa 09:00-12:30,14:00-20:00"
-website: "https://www.auxdelicesdespapilles.fr/cave-a-vins.html"
+opening_hours: Mo-We 09:00-12:30,14:00-19:00; Th-Sa 09:00-12:30,14:00-20:00
+website: https://www.auxdelicesdespapilles.fr/cave-a-vins.html

@@ -1,11 +1,11 @@
 id: 86581345
-type: way
+type: node
 latitude: 49.21458
 longitude: 4.04342
 postcode: "51350"
 city: CORMONTREUIL
-street: "Rue des Laps"
-housenumber: 17
-phone: "+33 3 26 35 19 39"
-opening_hours: "Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "http://www.cuisinella.com"
+street: Rue des Laps
+housenumber: "17"
+phone: +33 3 26 35 19 39
+opening_hours: Mo-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: http://www.cuisinella.com

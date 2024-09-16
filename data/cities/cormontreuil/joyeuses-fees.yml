@@ -1,11 +1,11 @@
 id: 436361668
-type: way
+type: node
 latitude: 49.21216
 longitude: 4.04536
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Jules Romains"
-housenumber: 
-phone: "+33 9 60 03 03 16"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:30,14:00-19:00"
-website: "https://www.joyeusesfees.fr/"
+street: Rue Jules Romains
+housenumber: ""
+phone: +33 9 60 03 03 16
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:30,14:00-19:00
+website: https://www.joyeusesfees.fr/

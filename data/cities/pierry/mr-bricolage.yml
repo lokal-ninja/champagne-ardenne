@@ -1,11 +1,11 @@
 id: 162670663
-type: way
+type: node
 latitude: 49.02233
 longitude: 3.9472
 postcode: "51530"
 city: Pierry
-street: "Allée de Maxenu"
-housenumber: 22
+street: Allée de Maxenu
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

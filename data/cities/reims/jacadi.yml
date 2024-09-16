@@ -4,8 +4,8 @@ latitude: 49.25476
 longitude: 4.0278
 postcode: "51100"
 city: Reims
-street: "Place Drouet d'Erlon"
-housenumber: 20
-phone: "+33 3 53 62 00 11"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
+street: Place Drouet d'Erlon
+housenumber: "20"
+phone: +33 3 53 62 00 11
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
 website: ""

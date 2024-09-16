@@ -1,11 +1,11 @@
 id: 87857445
-type: way
+type: node
 latitude: 49.28972
 longitude: 4.02431
 postcode: "51100"
 city: Reims
-street: "Rue Joanne Broche"
-housenumber: 
-phone: "+33 326867430"
-opening_hours: "Mo-Sa 10:00-12:30, 14:00-19:30; Su 10:00-12:30, 14:00-18:00"
-website: "https://electrodepot.fr/"
+street: Rue Joanne Broche
+housenumber: ""
+phone: +33 326867430
+opening_hours: Mo-Sa 10:00-12:30, 14:00-19:30; Su 10:00-12:30, 14:00-18:00
+website: https://electrodepot.fr/

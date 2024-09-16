@@ -1,11 +1,11 @@
 id: 64921725
-type: way
+type: node
 latitude: 47.95278
 longitude: 5.74731
 postcode: "52400"
 city: Bourbonne-les-Bains
-street: "Rue Vellonne"
-housenumber: 2
+street: Rue Vellonne
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/maisondelapresse.bourbonne.1"
+website: https://www.facebook.com/maisondelapresse.bourbonne.1

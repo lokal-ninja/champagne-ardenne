@@ -1,11 +1,11 @@
 id: 90987545
-type: way
+type: node
 latitude: 48.28172
 longitude: 4.09529
 postcode: "10800"
 city: Saint-Julien-les-Villas
-street: "Avenue Michel Baroin"
-housenumber: 140
+street: Avenue Michel Baroin
+housenumber: "140"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00,14:00-18:00"
+opening_hours: Mo-Sa 08:00-12:00,14:00-18:00
 website: ""

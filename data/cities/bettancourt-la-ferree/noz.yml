@@ -1,11 +1,11 @@
 id: 64653617
-type: way
+type: node
 latitude: 48.6518
 longitude: 4.96138
 postcode: "52100"
 city: Bettancourt-la-Ferrée
-street: "route de Bar-le-Duc"
-housenumber: 19
+street: route de Bar-le-Duc
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/bettancourt-la-ferree/"
+website: https://www.nozarrivages.com/magasin/bettancourt-la-ferree/

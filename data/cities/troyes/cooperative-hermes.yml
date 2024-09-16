@@ -1,11 +1,11 @@
 id: 73124262
-type: way
+type: node
 latitude: 48.28926
 longitude: 4.08311
 postcode: "10000"
 city: Troyes
-street: "Boulevard Georges Pompidou"
-housenumber: 23
+street: Boulevard Georges Pompidou
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "http://cooperative-hermes.com/pages/magasin_troyes"
+opening_hours: Mo-Sa 09:00-19:30
+website: http://cooperative-hermes.com/pages/magasin_troyes

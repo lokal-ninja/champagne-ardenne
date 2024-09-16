@@ -4,8 +4,8 @@ latitude: 48.29201
 longitude: 4.07301
 postcode: "10000"
 city: Troyes
-street: "Boulevard du 1er Régiment d'Artillerie de Montagne"
-housenumber: 5
-phone: "+33 3 25 76 77 83"
+street: Boulevard du 1er Régiment d'Artillerie de Montagne
+housenumber: "5"
+phone: +33 3 25 76 77 83
 opening_hours: ""
-website: "https://troyes.cyclable.com"
+website: https://troyes.cyclable.com

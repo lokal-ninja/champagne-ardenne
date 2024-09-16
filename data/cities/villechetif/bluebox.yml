@@ -1,11 +1,11 @@
 id: 73692798
-type: way
+type: node
 latitude: 48.30142
 longitude: 4.13572
 postcode: "10410"
 city: Villechétif
-street: "Rue des Vignes"
-housenumber: 7
+street: Rue des Vignes
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

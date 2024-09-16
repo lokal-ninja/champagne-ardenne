@@ -4,8 +4,8 @@ latitude: 48.28534
 longitude: 4.07814
 postcode: "10000"
 city: Troyes
-street: "Avenue Pierre Brossolette"
-housenumber: 173
-phone: "+33 3 25 79 99 30"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.bike-evolution.fr/"
+street: Avenue Pierre Brossolette
+housenumber: "173"
+phone: +33 3 25 79 99 30
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-12:00,14:00-19:00
+website: https://www.bike-evolution.fr/

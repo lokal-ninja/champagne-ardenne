@@ -4,8 +4,8 @@ latitude: 49.2721
 longitude: 3.99201
 postcode: "51370"
 city: Saint-Brice-Courcelles
-street: "Avenue de la Malle"
-housenumber: 10
-phone: "+33 3 26 61 52 44"
+street: Avenue de la Malle
+housenumber: "10"
+phone: +33 3 26 61 52 44
 opening_hours: ""
-website: "https://www.carrosseriedecourcelles.fr/"
+website: https://www.carrosseriedecourcelles.fr/

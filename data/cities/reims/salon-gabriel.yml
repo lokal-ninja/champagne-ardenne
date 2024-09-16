@@ -4,8 +4,9 @@ latitude: 49.25398
 longitude: 4.02365
 postcode: "51100"
 city: Reims
-street: "Rue Buirette"
-housenumber: 56
-phone: "+33 3 26 04 53 38"
-opening_hours: "Mo off; Tu 09:00-18:00; We 10:00-18:00; Th,Fr 09:00-19:00; Sa 08:00-18:00; Su off"
+street: Rue Buirette
+housenumber: "56"
+phone: +33 3 26 04 53 38
+opening_hours: Mo off; Tu 09:00-18:00; We 10:00-18:00; Th,Fr 09:00-19:00; Sa 08:00-18:00;
+    Su off
 website: ""

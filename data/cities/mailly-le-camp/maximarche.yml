@@ -1,11 +1,11 @@
 id: 326248583
-type: way
+type: node
 latitude: 48.66866
 longitude: 4.19091
 postcode: "10230"
 city: Mailly-le-Camp
-street: "Rue des Vignettes"
-housenumber: 
+street: Rue des Vignettes
+housenumber: ""
 phone: "+33325371090"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-12:30"
-website: "https://magasins.maximarche.fr/magasin/mailly-le-camp/80072"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-12:30
+website: https://magasins.maximarche.fr/magasin/mailly-le-camp/80072

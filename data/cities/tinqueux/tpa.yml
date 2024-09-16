@@ -4,8 +4,8 @@ latitude: 49.2513
 longitude: 3.97832
 postcode: "51430"
 city: Tinqueux
-street: "Avenue Sarah Bernhardt"
-housenumber: 54
-phone: "+33 3 26 50 61 61"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00"
-website: "http://www.groupetpa.com/"
+street: Avenue Sarah Bernhardt
+housenumber: "54"
+phone: +33 3 26 50 61 61
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:00; Sa 09:00-12:00
+website: http://www.groupetpa.com/

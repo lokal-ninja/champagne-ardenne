@@ -1,11 +1,11 @@
 id: 428975409
-type: way
+type: node
 latitude: 48.27308
 longitude: 3.79574
 postcode: "10190"
 city: Estissac
-street: "rue Georges Noël"
-housenumber: 
+street: rue Georges Noël
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

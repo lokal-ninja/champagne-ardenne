@@ -1,11 +1,11 @@
 id: 91320414
-type: way
+type: node
 latitude: 49.69997
 longitude: 4.91869
 postcode: "08200"
 city: Sedan
-street: "Rue des Forges"
-housenumber: 
+street: Rue des Forges
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/sedan/"
+website: https://www.nozarrivages.com/magasin/sedan/

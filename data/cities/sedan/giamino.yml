@@ -4,8 +4,8 @@ latitude: 49.69802
 longitude: 4.9536
 postcode: "08200"
 city: Sedan
-street: "Faubourg du Ménil"
-housenumber: 17
+street: Faubourg du Ménil
+housenumber: "17"
 phone: ""
-opening_hours: "boutique définitivement fermée"
+opening_hours: '"boutique définitivement fermée"'
 website: ""

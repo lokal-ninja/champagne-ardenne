@@ -4,8 +4,8 @@ latitude: 48.29635
 longitude: 4.07635
 postcode: "10000"
 city: Troyes
-street: "Rue Raymond Poincaré"
-housenumber: 11
-phone: "+33 3 25735897"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://jeunepousse.fr/"
+street: Rue Raymond Poincaré
+housenumber: "11"
+phone: +33 3 25735897
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://jeunepousse.fr/

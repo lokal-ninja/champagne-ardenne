@@ -1,11 +1,11 @@
 id: 660911187
-type: way
+type: node
 latitude: 49.26571
 longitude: 4.0264
 postcode: "51100"
 city: Reims
-street: "Avenue de Laon"
-housenumber: 66
-phone: "+33 6 07 73 48 05"
+street: Avenue de Laon
+housenumber: "66"
+phone: +33 6 07 73 48 05
 opening_hours: ""
 website: ""

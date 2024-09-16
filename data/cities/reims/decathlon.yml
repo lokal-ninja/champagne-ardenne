@@ -1,11 +1,11 @@
 id: 87842410
-type: way
+type: node
 latitude: 49.28871
 longitude: 4.02666
 postcode: "51100"
 city: Reims
-street: "Rue André Chaillot"
-housenumber: 
-phone: "+33 3 26 35 03 30"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/"
+street: Rue André Chaillot
+housenumber: ""
+phone: +33 3 26 35 03 30
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/

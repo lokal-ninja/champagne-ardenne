@@ -1,11 +1,11 @@
 id: 660698719
-type: way
+type: node
 latitude: 49.26351
 longitude: 4.02821
 postcode: "51100"
 city: Reims
-street: "Avenue de Laon"
-housenumber: 4
+street: Avenue de Laon
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.monsieurlebarbier51.fr/"
+website: https://www.monsieurlebarbier51.fr/

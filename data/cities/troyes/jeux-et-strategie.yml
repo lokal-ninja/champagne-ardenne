@@ -4,8 +4,8 @@ latitude: 48.29761
 longitude: 4.07351
 postcode: "10000"
 city: Troyes
-street: "Rue Aristide Briand"
-housenumber: 5
-phone: "+33 3 25 73 29 41"
+street: Rue Aristide Briand
+housenumber: "5"
+phone: +33 3 25 73 29 41
 opening_hours: ""
-website: "http://jeuxetstrategie.fr"
+website: http://jeuxetstrategie.fr

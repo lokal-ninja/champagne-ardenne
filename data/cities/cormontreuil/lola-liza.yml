@@ -1,11 +1,11 @@
 id: 86585174
-type: way
+type: node
 latitude: 49.21331
 longitude: 4.04548
 postcode: "51350"
 city: Cormontreuil
-street: "Rue des Laps"
-housenumber: 9
-phone: "+33 3 26 36 51 28"
-opening_hours: "Mo-Sa 10:00-20:00; Fr 10:00-21:00"
-website: "https://www.lolaliza.com/fr-fr/home"
+street: Rue des Laps
+housenumber: "9"
+phone: +33 3 26 36 51 28
+opening_hours: Mo-Sa 10:00-20:00; Fr 10:00-21:00
+website: https://www.lolaliza.com/fr-fr/home

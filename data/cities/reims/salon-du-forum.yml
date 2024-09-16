@@ -4,8 +4,8 @@ latitude: 49.2569
 longitude: 4.03471
 postcode: "51100"
 city: Reims
-street: "Place du Forum"
-housenumber: 26
-phone: "+33 3 26 47 30 50"
-opening_hours: "Tu-Fr 08:00-12:00,13:15-18:30; Sa 08:00-12:00,13:15-17:00"
-website: "https://www.salon-forum.fr/"
+street: Place du Forum
+housenumber: "26"
+phone: +33 3 26 47 30 50
+opening_hours: Tu-Fr 08:00-12:00,13:15-18:30; Sa 08:00-12:00,13:15-17:00
+website: https://www.salon-forum.fr/

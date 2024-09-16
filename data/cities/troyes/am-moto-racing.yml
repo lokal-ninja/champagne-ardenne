@@ -1,11 +1,11 @@
 id: 73014577
-type: way
+type: node
 latitude: 48.31125
 longitude: 4.06556
 postcode: "10000"
 city: Troyes
-street: "Avenue Major Général Georges Vanier"
-housenumber: 167
-phone: "+33 9 70357906"
+street: Avenue Major Général Georges Vanier
+housenumber: "167"
+phone: +33 9 70357906
 opening_hours: ""
-website: "https://www.am-moto-troyes.fr/"
+website: https://www.am-moto-troyes.fr/

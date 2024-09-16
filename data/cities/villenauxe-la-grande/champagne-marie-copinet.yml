@@ -1,11 +1,11 @@
 id: 787163283
-type: way
+type: node
 latitude: 48.58354
 longitude: 3.56315
 postcode: "10370"
 city: Villenauxe-la-Grande
-street: "Rue Chemin Du Plessis"
-housenumber: 8
-phone: "+33 3 25 21 13 22"
+street: Rue Chemin Du Plessis
+housenumber: "8"
+phone: +33 3 25 21 13 22
 opening_hours: ""
-website: "https://champagne-marie-copinet.com/fr"
+website: https://champagne-marie-copinet.com/fr

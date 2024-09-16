@@ -4,8 +4,8 @@ latitude: 48.2976
 longitude: 4.07475
 postcode: "10000"
 city: Troyes
-street: "Rue de la République"
-housenumber: 11
-phone: "+33 3 25 73 18 19"
-opening_hours: "Mo 09:00-12:00,14:00-19:00;Tu-Sa 09:00-12:30,14:00-19:00"
-website: "https://opticiens.optic2000.com/opticien-troyes-10000-55"
+street: Rue de la République
+housenumber: "11"
+phone: +33 3 25 73 18 19
+opening_hours: Mo 09:00-12:00,14:00-19:00;Tu-Sa 09:00-12:30,14:00-19:00
+website: https://opticiens.optic2000.com/opticien-troyes-10000-55

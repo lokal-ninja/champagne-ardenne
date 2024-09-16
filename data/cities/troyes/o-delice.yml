@@ -1,11 +1,11 @@
 id: 73118966
-type: way
+type: node
 latitude: 48.30719
 longitude: 4.06643
 postcode: "10000"
 city: Troyes
-street: "Rue Gaston Rogelin"
-housenumber: 45
+street: Rue Gaston Rogelin
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

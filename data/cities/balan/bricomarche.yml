@@ -1,11 +1,11 @@
 id: 99943572
-type: way
+type: node
 latitude: 49.68588
 longitude: 4.97203
 postcode: "08200"
 city: Balan
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 9:00-19:00"
+opening_hours: Mo-Sa 9:00-19:00
 website: ""

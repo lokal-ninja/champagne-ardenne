@@ -1,11 +1,11 @@
 id: 328300075
-type: way
+type: node
 latitude: 48.27673
 longitude: 4.08312
 postcode: "10800"
 city: Saint-Julien-les-Villas
-street: "Boulevard de Dijon"
-housenumber: 132
-phone: "+33 325824521"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://www.cycleschailley-lpa.fr/"
+street: Boulevard de Dijon
+housenumber: "132"
+phone: +33 325824521
+opening_hours: Tu-Sa 09:00-19:00
+website: https://www.cycleschailley-lpa.fr/

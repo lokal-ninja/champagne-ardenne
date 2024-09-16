@@ -4,8 +4,8 @@ latitude: 48.29388
 longitude: 4.07294
 postcode: "10000"
 city: Troyes
-street: "Rue de Turenne"
-housenumber: 38
+street: Rue de Turenne
+housenumber: "38"
 phone: ""
 opening_hours: ""
-website: "https://galeriedumont.fr/"
+website: https://galeriedumont.fr/

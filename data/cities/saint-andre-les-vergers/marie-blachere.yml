@@ -1,11 +1,11 @@
 id: 1311084469
-type: way
+type: node
 latitude: 48.27906
 longitude: 4.04484
 postcode: "10120"
 city: Saint-André-les-Vergers
-street: "Entrée des Antes"
-housenumber: 
+street: Entrée des Antes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

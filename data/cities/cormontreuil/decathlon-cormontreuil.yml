@@ -1,11 +1,11 @@
 id: 86582374
-type: way
+type: node
 latitude: 49.2174
 longitude: 4.0482
 postcode: "51350"
 city: Cormontreuil
-street: "Boulevard Alsace Lorraine"
-housenumber: 
+street: Boulevard Alsace Lorraine
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/fr/store?store_id=PS_28"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/fr/store?store_id=PS_28

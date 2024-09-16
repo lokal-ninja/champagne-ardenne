@@ -4,8 +4,9 @@ latitude: 49.27007
 longitude: 3.91906
 postcode: "51140"
 city: Muizon
-street: "Route Départementale 26"
-housenumber: 
+street: Route Départementale 26
+housenumber: ""
 phone: "+33326029961"
-opening_hours: "Mo 10:00-12:00, 14:00-19:00; Tu-Fr 09:00-12:00, 14:00-19:00; Sa-Su 09:00-19:00; Dec-Mar off"
-website: "https://www.cueillettedemuizon.fr/"
+opening_hours: Mo 10:00-12:00, 14:00-19:00; Tu-Fr 09:00-12:00, 14:00-19:00; Sa-Su
+    09:00-19:00; Dec-Mar off
+website: https://www.cueillettedemuizon.fr/

@@ -4,8 +4,8 @@ latitude: 49.03254
 longitude: 3.94845
 postcode: "51200"
 city: Épernay
-street: "Avenue du Maréchal Foch"
-housenumber: 79
-phone: "+33 3 26 55 50 50"
+street: Avenue du Maréchal Foch
+housenumber: "79"
+phone: +33 3 26 55 50 50
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

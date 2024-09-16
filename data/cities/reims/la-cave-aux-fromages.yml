@@ -4,8 +4,8 @@ latitude: 49.25636
 longitude: 4.0343
 postcode: "51100"
 city: Reims
-street: "Place du Forum"
-housenumber: 12
-phone: "+33 3 26 47 83 05"
-opening_hours: "Tu-Th 08:30-13:00,15:30-19:15; Fr 08:30-13:00,15:00-19:15; Sa 08:30-13:00,15:00-19:15"
-website: "https://fromage-reims.com/"
+street: Place du Forum
+housenumber: "12"
+phone: +33 3 26 47 83 05
+opening_hours: Tu-Th 08:30-13:00,15:30-19:15; Fr 08:30-13:00,15:00-19:15; Sa 08:30-13:00,15:00-19:15
+website: https://fromage-reims.com/

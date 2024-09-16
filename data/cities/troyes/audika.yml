@@ -4,8 +4,8 @@ latitude: 48.2917
 longitude: 4.07511
 postcode: "10000"
 city: Troyes
-street: "Avenue Pierre Brossolette"
-housenumber: 21
+street: Avenue Pierre Brossolette
+housenumber: "21"
 phone: ""
 opening_hours: ""
-website: "http://www.audika.com"
+website: http://www.audika.com

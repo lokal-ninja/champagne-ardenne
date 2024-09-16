@@ -4,8 +4,8 @@ latitude: 49.25666
 longitude: 4.03759
 postcode: "51100"
 city: Reims
-street: "Rue Cérès"
-housenumber: 36
-phone: "+33 3 26 48 65 17"
-opening_hours: "Mo-Sa 08:30-20:00"
+street: Rue Cérès
+housenumber: "36"
+phone: +33 3 26 48 65 17
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

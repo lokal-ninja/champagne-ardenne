@@ -1,11 +1,11 @@
 id: 86584278
-type: way
+type: node
 latitude: 49.21244
 longitude: 4.04994
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Lucien Trousset"
-housenumber: 10
-phone: "+33 3 26 87 98 88"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.top-office.com/"
+street: Rue Lucien Trousset
+housenumber: "10"
+phone: +33 3 26 87 98 88
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.top-office.com/

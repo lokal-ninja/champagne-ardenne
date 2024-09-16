@@ -1,11 +1,11 @@
 id: 320293398
-type: way
+type: node
 latitude: 49.19459
 longitude: 4.14001
 postcode: "51500"
 city: Sillery
-street: "Route de Châlon"
-housenumber: 2
+street: Route de Châlon
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

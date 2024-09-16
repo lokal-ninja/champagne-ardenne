@@ -1,11 +1,11 @@
 id: 655465038
-type: way
+type: node
 latitude: 49.28577
 longitude: 4.01844
 postcode: "51100"
 city: Reims
-street: "Rue Rosa Luxemburg"
-housenumber: 7
+street: Rue Rosa Luxemburg
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://ad-poidslourds-ile-de-france-pl.autodistribution.fr/point-de-vente/ad-poids-lourds-ile-de-france-reims"
+website: https://ad-poidslourds-ile-de-france-pl.autodistribution.fr/point-de-vente/ad-poids-lourds-ile-de-france-reims

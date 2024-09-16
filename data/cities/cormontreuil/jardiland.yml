@@ -1,11 +1,11 @@
 id: 86583197
-type: way
+type: node
 latitude: 49.21739
 longitude: 4.04475
 postcode: ""
 city: Cormontreuil
 street: ""
-housenumber: 
-phone: "+33 3 26 85 49 34"
-opening_hours: "Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00; Su 10:00-12:30,14:30-18:30"
-website: "https://www.jardiland.com/magasins/magasin-cormontreuil"
+housenumber: ""
+phone: +33 3 26 85 49 34
+opening_hours: Mo-Fr 09:30-12:00,14:00-19:00; Sa 09:30-19:00; Su 10:00-12:30,14:30-18:30
+website: https://www.jardiland.com/magasins/magasin-cormontreuil

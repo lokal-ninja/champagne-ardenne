@@ -1,11 +1,11 @@
 id: 91126887
-type: way
+type: node
 latitude: 49.74002
 longitude: 4.71931
 postcode: "08000"
 city: Charleville-Mézières
-street: "Boulevard Jean Delautre"
-housenumber: 6
+street: Boulevard Jean Delautre
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

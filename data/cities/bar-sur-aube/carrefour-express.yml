@@ -4,8 +4,8 @@ latitude: 48.23286
 longitude: 4.70692
 postcode: "10200"
 city: Bar-sur-Aube
-street: "Rue Nationale"
-housenumber: 93
+street: Rue Nationale
+housenumber: "93"
 phone: "+33325270328"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-bar-s-aube-national"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-bar-s-aube-national

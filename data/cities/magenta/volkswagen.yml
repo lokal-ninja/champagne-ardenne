@@ -1,11 +1,11 @@
 id: 162668573
-type: way
+type: node
 latitude: 49.05908
 longitude: 3.96295
 postcode: "51530"
 city: Magenta
-street: "Rue Alfred Anatole Thevenet"
-housenumber: 
-phone: "+33 3 26 51 64 51"
+street: Rue Alfred Anatole Thevenet
+housenumber: ""
+phone: +33 3 26 51 64 51
 opening_hours: ""
-website: "https://www.vw-epernay.fr/"
+website: https://www.vw-epernay.fr/

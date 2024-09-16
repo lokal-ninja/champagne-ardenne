@@ -1,11 +1,11 @@
 id: 655416806
-type: way
+type: node
 latitude: 49.28458
 longitude: 4.01572
 postcode: "51100"
 city: Reims
-street: "Avenue Benoît Frachon"
-housenumber: 1
+street: Avenue Benoît Frachon
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.carter-cash.com/magasin/reims-51100-M028"
+website: https://www.carter-cash.com/magasin/reims-51100-M028

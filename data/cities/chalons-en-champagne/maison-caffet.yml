@@ -4,8 +4,8 @@ latitude: 48.95594
 longitude: 4.36359
 postcode: "51000"
 city: Châlons-en-Champagne
-street: "Place du marché aux fleurs"
-housenumber: 2
-phone: "+33 3 26 67 49 22"
-opening_hours: "Tu-Sa 09:00-12:30, 14:00-17:30"
-website: "https://www.maison-caffet.com/maison-caffet-chalons-en-champagne"
+street: Place du marché aux fleurs
+housenumber: "2"
+phone: +33 3 26 67 49 22
+opening_hours: Tu-Sa 09:00-12:30, 14:00-17:30
+website: https://www.maison-caffet.com/maison-caffet-chalons-en-champagne

@@ -4,8 +4,8 @@ latitude: 49.25633
 longitude: 4.03452
 postcode: "51100"
 city: Reims
-street: "Rue Nanteuil"
-housenumber: 15
-phone: "+33 9 72 85 29 83"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.hammam-lareinedesaba.fr/"
+street: Rue Nanteuil
+housenumber: "15"
+phone: +33 9 72 85 29 83
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.hammam-lareinedesaba.fr/

@@ -4,8 +4,8 @@ latitude: 48.29593
 longitude: 4.07138
 postcode: "10000"
 city: Troyes
-street: "Rue de la Monnaie"
-housenumber: 18
-phone: "+33 3 25 73 05 45"
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.facebook.com/Le-Bidibul-79463257151/"
+street: Rue de la Monnaie
+housenumber: "18"
+phone: +33 3 25 73 05 45
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00
+website: https://www.facebook.com/Le-Bidibul-79463257151/

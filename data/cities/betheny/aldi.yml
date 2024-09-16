@@ -1,11 +1,11 @@
 id: 1061789184
-type: way
+type: node
 latitude: 49.28532
 longitude: 4.03122
 postcode: "51450"
 city: Bétheny
-street: "rue de la Ferme Pierquin"
-housenumber: 
-phone: "+33 1 81 09 78 25"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://aldi.fr/"
+street: rue de la Ferme Pierquin
+housenumber: ""
+phone: +33 1 81 09 78 25
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://aldi.fr/

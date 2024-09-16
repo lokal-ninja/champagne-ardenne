@@ -1,11 +1,11 @@
 id: 86583551
-type: way
+type: node
 latitude: 49.21618
 longitude: 4.04423
 postcode: "51350"
 city: CORMONTREUIL
-street: "Rue des Laps"
-housenumber: 29
-phone: "+33 3 26 35 26 35"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.maxizoo.fr/"
+street: Rue des Laps
+housenumber: "29"
+phone: +33 3 26 35 26 35
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.maxizoo.fr/

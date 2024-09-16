@@ -4,8 +4,8 @@ latitude: 49.77399
 longitude: 4.7193
 postcode: "08000"
 city: Charleville-Mézières
-street: "Rue de Mantoue"
-housenumber: 22
-phone: "+33 3 24 40 47 44"
-opening_hours: "Mo-Su 09:00-12:30,14:00-19:00"
+street: Rue de Mantoue
+housenumber: "22"
+phone: +33 3 24 40 47 44
+opening_hours: Mo-Su 09:00-12:30,14:00-19:00
 website: ""

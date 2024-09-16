@@ -1,11 +1,11 @@
 id: 170144684
-type: way
+type: node
 latitude: 48.33344
 longitude: 4.09624
 postcode: "10150"
 city: Lavau
-street: "Rue du Moutot"
-housenumber: 22
-phone: "+33 3 25 72 50 50"
-opening_hours: "09:00-19:00"
-website: "https://www.e-motors.fr/"
+street: Rue du Moutot
+housenumber: "22"
+phone: +33 3 25 72 50 50
+opening_hours: 09:00-19:00
+website: https://www.e-motors.fr/

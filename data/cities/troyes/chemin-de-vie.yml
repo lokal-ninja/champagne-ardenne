@@ -4,8 +4,8 @@ latitude: 48.2984
 longitude: 4.07634
 postcode: "10000"
 city: Troyes
-street: "Rue Georges Clemenceau"
-housenumber: 32
-phone: "+333 25 73 23 77"
+street: Rue Georges Clemenceau
+housenumber: "32"
+phone: +333 25 73 23 77
 opening_hours: ""
-website: "https://www.cadocatho.com"
+website: https://www.cadocatho.com

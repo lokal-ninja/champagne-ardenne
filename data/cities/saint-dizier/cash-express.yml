@@ -1,11 +1,11 @@
 id: 417092536
-type: way
+type: node
 latitude: 48.62236
 longitude: 4.96779
 postcode: "52100"
 city: Saint-Dizier
 street: ""
-housenumber: 
-phone: "+33 3 25 94 21 81"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:30,13:30-19:00"
+housenumber: ""
+phone: +33 3 25 94 21 81
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-12:30,13:30-19:00
 website: ""

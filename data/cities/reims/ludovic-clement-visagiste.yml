@@ -4,8 +4,8 @@ latitude: 49.25115
 longitude: 4.05282
 postcode: "51100"
 city: Reims
-street: "Boulevard Pommery"
-housenumber: 158
-phone: "+33 3 26 77 99 22"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:00-18:30; Sa 09:00-17:30"
+street: Boulevard Pommery
+housenumber: "158"
+phone: +33 3 26 77 99 22
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:00-18:30; Sa 09:00-17:30
 website: ""

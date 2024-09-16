@@ -1,11 +1,11 @@
 id: 176126027
-type: way
+type: node
 latitude: 47.80772
 longitude: 5.44459
 postcode: "52600"
 city: Chalindrey
-street: "Rue de la République"
-housenumber: 67
+street: Rue de la République
+housenumber: "67"
 phone: "+33325875479"
-opening_hours: "Mo 14:00-17:00; Tu-Fr 09:00-12:00,14:00-19:00"
-website: "https://www.idelik.fr"
+opening_hours: Mo 14:00-17:00; Tu-Fr 09:00-12:00,14:00-19:00
+website: https://www.idelik.fr

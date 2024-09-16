@@ -4,8 +4,8 @@ latitude: 48.09745
 longitude: 5.15707
 postcode: "52000"
 city: Chaumont
-street: "Rue Henri Matisse"
-housenumber: 2
-phone: "+33 3 25 32 25 40"
-opening_hours: "Mo-Sa 09:00-12:00, Mo-Fr 14:00-19:00, Sa 14:00-18:00"
-website: "http://www.chaumontburo-calipage.com/"
+street: Rue Henri Matisse
+housenumber: "2"
+phone: +33 3 25 32 25 40
+opening_hours: Mo-Sa 09:00-12:00, Mo-Fr 14:00-19:00, Sa 14:00-18:00
+website: http://www.chaumontburo-calipage.com/

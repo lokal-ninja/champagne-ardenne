@@ -4,8 +4,8 @@ latitude: 48.29744
 longitude: 4.07493
 postcode: "10000"
 city: Troyes
-street: "Place Maréchal Foch"
-housenumber: 5
-phone: "+333 25 73 11 61"
-opening_hours: "Mo-Sa 07:45-19:15"
-website: "https://www.lacivette-buraliste-troyes.fr/"
+street: Place Maréchal Foch
+housenumber: "5"
+phone: +333 25 73 11 61
+opening_hours: Mo-Sa 07:45-19:15
+website: https://www.lacivette-buraliste-troyes.fr/

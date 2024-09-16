@@ -1,11 +1,11 @@
 id: 1188988840
-type: way
+type: node
 latitude: 48.53149
 longitude: 4.14236
 postcode: "10700"
 city: Arcis-sur-Aube
-street: "Rue de Troyes"
-housenumber: 44
+street: Rue de Troyes
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 94355317
-type: way
+type: node
 latitude: 49.21195
 longitude: 4.04586
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Jules Romains"
-housenumber: 
-phone: "+33 3 26 82 82 15"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 09:30-19:30"
-website: "http://magasins.intersport.fr"
+street: Rue Jules Romains
+housenumber: ""
+phone: +33 3 26 82 82 15
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 09:30-19:30
+website: http://magasins.intersport.fr

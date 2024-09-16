@@ -1,11 +1,11 @@
 id: 87863584
-type: way
+type: node
 latitude: 49.28865
 longitude: 4.02174
 postcode: "51100"
 city: Reims
-street: "Rue Docteur Robert Creusat"
-housenumber: 
+street: Rue Docteur Robert Creusat
+housenumber: ""
 phone: "+33326778282"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.leroymerlin.fr/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.leroymerlin.fr/

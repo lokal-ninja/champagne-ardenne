@@ -4,8 +4,8 @@ latitude: 49.30733
 longitude: 3.68103
 postcode: "51170"
 city: Fismes
-street: "Rue des Bouchers"
-housenumber: 13
-phone: "+33 3 26 48 06 12"
-opening_hours: "Tu-Fr 08:30-12:00,13:30-19:30; Sa 08:00-17:00"
-website: "https://www.estelle-coiffure-fismes.fr/"
+street: Rue des Bouchers
+housenumber: "13"
+phone: +33 3 26 48 06 12
+opening_hours: Tu-Fr 08:30-12:00,13:30-19:30; Sa 08:00-17:00
+website: https://www.estelle-coiffure-fismes.fr/

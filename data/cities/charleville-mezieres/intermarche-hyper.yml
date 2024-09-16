@@ -1,11 +1,11 @@
 id: 91123224
-type: way
+type: node
 latitude: 49.74575
 longitude: 4.72896
 postcode: "08000"
 city: Charleville-Mézières
-street: "Avenue Carnot"
+street: Avenue Carnot
 housenumber: 197,199
-phone: "+33 3 24 37 46 11"
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.intermarche.com/magasins/02122/Charleville-M%C3%A9zi%C3%A8res-08000/"
+phone: +33 3 24 37 46 11
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.intermarche.com/magasins/02122/Charleville-M%C3%A9zi%C3%A8res-08000/

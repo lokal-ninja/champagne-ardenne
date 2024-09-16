@@ -1,11 +1,11 @@
 id: 86582735
-type: way
+type: node
 latitude: 49.216
 longitude: 4.04745
 postcode: "51350"
 city: Cormontreuil
-street: "Rue des Laps"
-housenumber: 4
+street: Rue des Laps
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.25241
 longitude: 4.02633
 postcode: "51100"
 city: Reims
-street: "Rue de Vesle"
-housenumber: 113
-phone: "+33 3 26 24 34 74"
-opening_hours: "Th-Sa 10:00-19:00"
-website: "https://lodysseedesjeux.fr/"
+street: Rue de Vesle
+housenumber: "113"
+phone: +33 3 26 24 34 74
+opening_hours: Th-Sa 10:00-19:00
+website: https://lodysseedesjeux.fr/

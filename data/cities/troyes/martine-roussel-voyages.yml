@@ -4,8 +4,8 @@ latitude: 48.29762
 longitude: 4.07318
 postcode: "10000"
 city: Troyes
-street: "Rue Aristide Briand"
-housenumber: 2
+street: Rue Aristide Briand
+housenumber: "2"
 phone: "+33325436600"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://martine-roussel-voyages.com/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://martine-roussel-voyages.com/

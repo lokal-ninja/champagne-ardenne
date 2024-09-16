@@ -4,8 +4,8 @@ latitude: 48.29711
 longitude: 4.07591
 postcode: "10000"
 city: Troyes
-street: "Rue Émile Zola"
-housenumber: 38
-phone: "+33 3 25 82 82 00"
+street: Rue Émile Zola
+housenumber: "38"
+phone: +33 3 25 82 82 00
 opening_hours: ""
-website: "https://www.pretapartir.fr/"
+website: https://www.pretapartir.fr/

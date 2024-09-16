@@ -4,8 +4,8 @@ latitude: 49.76029
 longitude: 4.70982
 postcode: "08000"
 city: Charleville-Mézières
-street: "Rue du Pâquis des Boulets"
-housenumber: 3
-phone: "+33 3 24 57 30 31"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.drinks-euro-boissons.fr/"
+street: Rue du Pâquis des Boulets
+housenumber: "3"
+phone: +33 3 24 57 30 31
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-12:00,14:00-19:00
+website: https://www.drinks-euro-boissons.fr/

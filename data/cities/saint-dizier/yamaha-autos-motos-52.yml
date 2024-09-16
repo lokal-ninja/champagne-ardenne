@@ -1,11 +1,11 @@
 id: 65680131
-type: way
+type: node
 latitude: 48.6224
 longitude: 4.96676
 postcode: "52100"
 city: Saint-Dizier
 street: ""
-housenumber: 
-phone: "+33 3 25 04 01 01"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.autosmotos52.fr"
+housenumber: ""
+phone: +33 3 25 04 01 01
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.autosmotos52.fr

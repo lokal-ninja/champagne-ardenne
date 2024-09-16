@@ -1,11 +1,11 @@
 id: 65658869
-type: way
+type: node
 latitude: 48.62621
 longitude: 4.97137
 postcode: "52100"
 city: Saint-Dizier
 street: ""
-housenumber: 
-phone: "+33 3 25 96 99 00"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://reseau.citroen.fr/st-dizier"
+housenumber: ""
+phone: +33 3 25 96 99 00
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://reseau.citroen.fr/st-dizier

@@ -1,11 +1,11 @@
 id: 92322069
-type: way
+type: node
 latitude: 48.2858
 longitude: 4.05381
 postcode: "10120"
 city: Saint-André-les-Vergers
-street: "Avenue du Président Wilson"
-housenumber: 127
-phone: "+33 3 25 78 32 82"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "http://cooperative-hermes.com/pages/magasin_saint_andre_les_vergers"
+street: Avenue du Président Wilson
+housenumber: "127"
+phone: +33 3 25 78 32 82
+opening_hours: Mo-Sa 09:00-19:30
+website: http://cooperative-hermes.com/pages/magasin_saint_andre_les_vergers

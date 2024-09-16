@@ -4,8 +4,8 @@ latitude: 48.29465
 longitude: 4.07352
 postcode: "10000"
 city: Troyes
-street: "Rue Larivey"
-housenumber: 23
+street: Rue Larivey
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Sa 14:00-19:00"
-website: "http://sarah-dolle.fr"
+opening_hours: Tu-Sa 14:00-19:00
+website: http://sarah-dolle.fr

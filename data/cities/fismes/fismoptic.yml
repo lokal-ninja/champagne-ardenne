@@ -4,8 +4,8 @@ latitude: 49.3074
 longitude: 3.6806
 postcode: "51170"
 city: Fismes
-street: "Rue des Bouchers"
-housenumber: 5
-phone: "+33 3 26 48 10 97"
-opening_hours: "Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://fism-optic.fr/"
+street: Rue des Bouchers
+housenumber: "5"
+phone: +33 3 26 48 10 97
+opening_hours: Tu-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://fism-optic.fr/

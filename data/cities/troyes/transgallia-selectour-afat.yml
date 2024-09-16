@@ -4,8 +4,8 @@ latitude: 48.29792
 longitude: 4.07418
 postcode: "10000"
 city: Troyes
-street: "Rue de la République"
-housenumber: 20
-phone: "+333 25 43 40 40"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.transgallia.fr/"
+street: Rue de la République
+housenumber: "20"
+phone: +333 25 43 40 40
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.transgallia.fr/

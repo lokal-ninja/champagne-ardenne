@@ -4,8 +4,8 @@ latitude: 48.29581
 longitude: 4.0731
 postcode: "10000"
 city: Troyes
-street: "Rue Émile Zola"
-housenumber: 108
+street: Rue Émile Zola
+housenumber: "108"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.free.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.free.fr/

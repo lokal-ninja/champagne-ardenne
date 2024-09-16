@@ -1,11 +1,11 @@
 id: 73115600
-type: way
+type: node
 latitude: 48.28875
 longitude: 4.08259
 postcode: "10000"
 city: Troyes
-street: "Boulevard Georges Pompidou"
-housenumber: 23
+street: Boulevard Georges Pompidou
+housenumber: "23"
 phone: "0325426416"
-opening_hours: "We-Sa 09:00-13:00; We-Th 15:00-19:00; Sa 14:30-18:00"
-website: "https://passion-paysanne.fr/"
+opening_hours: We-Sa 09:00-13:00; We-Th 15:00-19:00; Sa 14:30-18:00
+website: https://passion-paysanne.fr/

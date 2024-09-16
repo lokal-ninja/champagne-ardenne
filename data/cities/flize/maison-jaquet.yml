@@ -1,11 +1,11 @@
 id: 459170303
-type: way
+type: node
 latitude: 49.6984
 longitude: 4.77606
 postcode: "08160"
 city: Flize
-street: "Rue de Sedan"
-housenumber: 11
+street: Rue de Sedan
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

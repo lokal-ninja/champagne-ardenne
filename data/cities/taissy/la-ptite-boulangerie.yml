@@ -1,11 +1,11 @@
 id: 86543117
-type: way
+type: node
 latitude: 49.21342
 longitude: 4.09565
 postcode: "51500"
 city: Taissy
-street: "Rue de Sillery"
-housenumber: 20
+street: Rue de Sillery
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

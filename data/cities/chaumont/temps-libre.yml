@@ -4,8 +4,8 @@ latitude: 48.11095
 longitude: 5.13739
 postcode: "52000"
 city: Chaumont
-street: "Rue de Verdun"
-housenumber: 6
+street: Rue de Verdun
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:30-12:00, 14:30-17:00; Sa 09:30-17:00"
-website: "http://temps-libre.net/"
+opening_hours: Mo-Fr 09:30-12:00, 14:30-17:00; Sa 09:30-17:00
+website: http://temps-libre.net/

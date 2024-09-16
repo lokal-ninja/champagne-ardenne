@@ -1,11 +1,11 @@
 id: 520114097
-type: way
+type: node
 latitude: 48.71138
 longitude: 3.73008
 postcode: "51120"
 city: Sézanne
-street: "Route de Troyes"
-housenumber: 
+street: Route de Troyes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

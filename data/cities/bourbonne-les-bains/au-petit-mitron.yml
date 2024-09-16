@@ -1,11 +1,11 @@
 id: 64920571
-type: way
+type: node
 latitude: 47.95516
 longitude: 5.74804
 postcode: "52400"
 city: Bourbonne-les-Bains
-street: "Rue des Capucins"
-housenumber: 27
+street: Rue des Capucins
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.tourisme-bourbonne.com/tourisme/commercants/BOURBONNE-LES-BAINS-BOULANGERIE-LE-PETIT-MITRON_2__COMCHA0520000485.htm"
+website: https://www.tourisme-bourbonne.com/tourisme/commercants/BOURBONNE-LES-BAINS-BOULANGERIE-LE-PETIT-MITRON_2__COMCHA0520000485.htm

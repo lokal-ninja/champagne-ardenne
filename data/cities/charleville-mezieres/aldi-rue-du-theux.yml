@@ -1,11 +1,11 @@
 id: 1202560538
-type: way
+type: node
 latitude: 49.75936
 longitude: 4.73102
 postcode: "08000"
 city: Charleville-Mézières
-street: "Rue du Theux"
-housenumber: 3
+street: Rue du Theux
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

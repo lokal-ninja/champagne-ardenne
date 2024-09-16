@@ -1,11 +1,11 @@
 id: 86583652
-type: way
+type: node
 latitude: 49.21672
 longitude: 4.04314
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Victor Schoelcher"
-housenumber: 
-phone: "+33 3 26 97 34 00"
-opening_hours: "Mo-Fr 10:00-12:30,14:00-19:30; Sa 09:30-19:30"
-website: "https://www.electrodepot.fr/"
+street: Rue Victor Schoelcher
+housenumber: ""
+phone: +33 3 26 97 34 00
+opening_hours: Mo-Fr 10:00-12:30,14:00-19:30; Sa 09:30-19:30
+website: https://www.electrodepot.fr/

@@ -4,8 +4,8 @@ latitude: 49.25634
 longitude: 4.03425
 postcode: "51100"
 city: Reims
-street: "Place du Forum"
-housenumber: 10
-phone: "+33 3 26 40 46 06"
-opening_hours: "Mo-Sa 09:00-13:00, 15:30-19:00"
-website: "https://www.vitrinesdereims.com/"
+street: Place du Forum
+housenumber: "10"
+phone: +33 3 26 40 46 06
+opening_hours: Mo-Sa 09:00-13:00, 15:30-19:00
+website: https://www.vitrinesdereims.com/

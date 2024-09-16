@@ -1,11 +1,11 @@
 id: 985034616
-type: way
+type: node
 latitude: 48.0917
 longitude: 5.14323
 postcode: "52000"
 city: Chaumont
-street: "Route de Brottes"
-housenumber: 6
+street: Route de Brottes
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-12:30
 website: ""

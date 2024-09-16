@@ -1,11 +1,11 @@
 id: 187042294
-type: way
+type: node
 latitude: 50.01031
 longitude: 4.7064
 postcode: "08170"
 city: Haybes
-street: "Rue André Cunin"
-housenumber: 15
+street: Rue André Cunin
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

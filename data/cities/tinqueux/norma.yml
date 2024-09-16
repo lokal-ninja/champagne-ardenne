@@ -1,11 +1,11 @@
 id: 86600536
-type: way
+type: node
 latitude: 49.25083
 longitude: 3.97674
 postcode: "51430"
 city: Tinqueux
-street: "Place Robert Lynen"
-housenumber: 5
+street: Place Robert Lynen
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

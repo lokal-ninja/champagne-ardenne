@@ -1,11 +1,11 @@
 id: 91142514
-type: way
+type: node
 latitude: 49.75256
 longitude: 4.72816
 postcode: "08000"
 city: Charleville-Mézières
-street: "Rue Jean Moulin"
-housenumber: 56
+street: Rue Jean Moulin
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

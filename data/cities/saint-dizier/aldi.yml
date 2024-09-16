@@ -1,11 +1,11 @@
 id: 65667336
-type: way
+type: node
 latitude: 48.62713
 longitude: 4.96137
 postcode: "52100"
 city: Saint-Dizier
-street: "Avenue Pierre Beregovoy"
-housenumber: 19
+street: Avenue Pierre Beregovoy
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:30"
+opening_hours: Mo-Sa 08:00-19:30
 website: ""

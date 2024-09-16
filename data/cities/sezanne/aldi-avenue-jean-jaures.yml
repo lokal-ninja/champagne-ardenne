@@ -1,11 +1,11 @@
 id: 888415979
-type: way
+type: node
 latitude: 48.71626
 longitude: 3.72526
 postcode: "51120"
 city: Sézanne
-street: "Avenue Jean Jaurès"
-housenumber: 5
+street: Avenue Jean Jaurès
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30;Su 8:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30;Su 8:30-12:30
 website: ""

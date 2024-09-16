@@ -4,8 +4,8 @@ latitude: 48.23905
 longitude: 4.7034
 postcode: "10200"
 city: Bar-sur-Aube
-street: "Avenue du Général Leclerc"
-housenumber: 24
+street: Avenue du Général Leclerc
+housenumber: "24"
 phone: "+33325923792"
-opening_hours: "Mo-Sa 08:30-19:00"
-website: "https://www.leclercdrive.fr/"
+opening_hours: Mo-Sa 08:30-19:00
+website: https://www.leclercdrive.fr/

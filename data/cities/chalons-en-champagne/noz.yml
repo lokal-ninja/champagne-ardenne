@@ -1,11 +1,11 @@
 id: 156681160
-type: way
+type: node
 latitude: 48.94183
 longitude: 4.3908
 postcode: "51000"
 city: Châlons-en-Champagne
-street: "Avenue Winston Churchill"
-housenumber: 40
+street: Avenue Winston Churchill
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.nozarrivages.com/magasin/chalons-en-champagne/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.nozarrivages.com/magasin/chalons-en-champagne/

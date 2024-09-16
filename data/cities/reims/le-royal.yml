@@ -4,8 +4,8 @@ latitude: 49.25552
 longitude: 4.03345
 postcode: "51100"
 city: Reims
-street: "Rue Trudaine"
-housenumber: 3
-phone: "+33 326476747"
-opening_hours: "Mo-Sa 06:30-22:00"
+street: Rue Trudaine
+housenumber: "3"
+phone: +33 326476747
+opening_hours: Mo-Sa 06:30-22:00
 website: ""

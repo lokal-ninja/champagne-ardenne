@@ -1,11 +1,11 @@
 id: 551712640
-type: way
+type: node
 latitude: 48.62665
 longitude: 4.96921
 postcode: "52100"
 city: Saint-Dizier
 street: ""
-housenumber: 
-phone: "+33 3 25 56 03 98"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.jmautomobiles.fr"
+housenumber: ""
+phone: +33 3 25 56 03 98
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.jmautomobiles.fr

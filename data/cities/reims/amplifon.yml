@@ -4,8 +4,8 @@ latitude: 49.25886
 longitude: 4.04304
 postcode: "51100"
 city: Reims
-street: "Avenue Jean Jaurès"
-housenumber: 51
-phone: "+33 3 26 04 31 74"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
+street: Avenue Jean Jaurès
+housenumber: "51"
+phone: +33 3 26 04 31 74
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
 website: ""

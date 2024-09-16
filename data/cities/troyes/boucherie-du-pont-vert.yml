@@ -1,11 +1,11 @@
 id: 73114931
-type: way
+type: node
 latitude: 48.3077
 longitude: 4.06876
 postcode: "10000"
 city: Troyes
-street: "Rue de Preize"
-housenumber: 120
+street: Rue de Preize
+housenumber: "120"
 phone: "+33325400983"
-opening_hours: "Tu-Fr 08:30-12:30,14:00-19:00; Sa 08:30-19:00; Su 08:30-13:00"
-website: "https://tybigbrotherparis.wixsite.com/boucheriedupontvert"
+opening_hours: Tu-Fr 08:30-12:30,14:00-19:00; Sa 08:30-19:00; Su 08:30-13:00
+website: https://tybigbrotherparis.wixsite.com/boucheriedupontvert

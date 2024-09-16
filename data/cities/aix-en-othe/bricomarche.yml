@@ -1,11 +1,11 @@
 id: 229215277
-type: way
+type: node
 latitude: 48.21571
 longitude: 3.74099
 postcode: "10160"
 city: Aix-en-Othe
-street: "Rue Joseph Anglade"
-housenumber: 29
+street: Rue Joseph Anglade
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

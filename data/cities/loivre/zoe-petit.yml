@@ -4,8 +4,8 @@ latitude: 49.34549
 longitude: 3.98047
 postcode: "51220"
 city: Loivre
-street: "Rue de Courcy"
-housenumber: 29
-phone: "+33 3 26 04 60 08"
-opening_hours: "Mo 07:00-13:00; Tu-Sa 07:00-13:00,15:30-19:30"
+street: Rue de Courcy
+housenumber: "29"
+phone: +33 3 26 04 60 08
+opening_hours: Mo 07:00-13:00; Tu-Sa 07:00-13:00,15:30-19:30
 website: ""

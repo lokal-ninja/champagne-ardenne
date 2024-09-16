@@ -4,8 +4,8 @@ latitude: 49.24645
 longitude: 3.9799
 postcode: "51370"
 city: Ormes
-street: "Rue des Blancs Fossés"
-housenumber: 5
-phone: "+33 3 26 06 31 11"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-19:00"
-website: "https://www.marzinpro.fr/"
+street: Rue des Blancs Fossés
+housenumber: "5"
+phone: +33 3 26 06 31 11
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 10:00-12:00,14:00-19:00
+website: https://www.marzinpro.fr/

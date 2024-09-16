@@ -4,8 +4,8 @@ latitude: 49.25491
 longitude: 4.0249
 postcode: "51100"
 city: Reims
-street: "Rue Jeanne d'Arc"
-housenumber: 41
-phone: "+33 3 26 86 47 97"
-opening_hours: "Mo,We 14:00-19:00; Tu,Th-Sa 09:30-12:00,14:00-19:00; Su off"
-website: "https://www.folies-boutique.com/"
+street: Rue Jeanne d'Arc
+housenumber: "41"
+phone: +33 3 26 86 47 97
+opening_hours: Mo,We 14:00-19:00; Tu,Th-Sa 09:30-12:00,14:00-19:00; Su off
+website: https://www.folies-boutique.com/

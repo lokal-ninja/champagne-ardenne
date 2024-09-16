@@ -4,8 +4,8 @@ latitude: 49.73598
 longitude: 4.78284
 postcode: "08440"
 city: Lumes
-street: "Grande Rue"
-housenumber: 2
+street: Grande Rue
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-We 09:00-12:00, 14:00-18:30; Fr 09:00-19:00; Sa 08:00-17:00"
+opening_hours: Mo-We 09:00-12:00, 14:00-18:30; Fr 09:00-19:00; Sa 08:00-17:00
 website: ""

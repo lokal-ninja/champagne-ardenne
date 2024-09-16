@@ -1,11 +1,11 @@
 id: 87851410
-type: way
+type: node
 latitude: 49.28924
 longitude: 4.02686
 postcode: "51100"
 city: Reims
-street: "Rue Docteur Serge Bazelaire"
-housenumber: 
-phone: "+33 326369800"
-opening_hours: "Mo-Sa 09:30-19:30; Su 10:00-18:00"
-website: "http://liane.com"
+street: Rue Docteur Serge Bazelaire
+housenumber: ""
+phone: +33 326369800
+opening_hours: Mo-Sa 09:30-19:30; Su 10:00-18:00
+website: http://liane.com

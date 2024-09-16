@@ -1,11 +1,11 @@
 id: 666411813
-type: way
+type: node
 latitude: 49.25715
 longitude: 4.02974
 postcode: "51100"
 city: Reims
-street: "Cours Jean-Baptiste Langlet"
-housenumber: 47
+street: Cours Jean-Baptiste Langlet
+housenumber: "47"
 phone: ""
 opening_hours: ""
 website: ""

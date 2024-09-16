@@ -4,8 +4,8 @@ latitude: 49.25175
 longitude: 3.97941
 postcode: "51430"
 city: Reims
-street: "Route de Soissons"
-housenumber: 
+street: Route de Soissons
+housenumber: ""
 phone: "0326080021"
-opening_hours: "Ma-Sa 09:00-18:00"
-website: "https://www.libertium.fr/concessions/reims"
+opening_hours: Ma-Sa 09:00-18:00
+website: https://www.libertium.fr/concessions/reims

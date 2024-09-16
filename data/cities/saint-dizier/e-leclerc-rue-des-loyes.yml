@@ -1,11 +1,11 @@
 id: 65671595
-type: way
+type: node
 latitude: 48.62819
 longitude: 4.96978
 postcode: "52100"
 city: Saint-Dizier
-street: "Rue des Loyes"
-housenumber: 
-phone: "+33 3 25 56 37 37"
-opening_hours: "Mo-Sa 08:45-19:45; Su 09:00-12:30"
+street: Rue des Loyes
+housenumber: ""
+phone: +33 3 25 56 37 37
+opening_hours: Mo-Sa 08:45-19:45; Su 09:00-12:30
 website: ""

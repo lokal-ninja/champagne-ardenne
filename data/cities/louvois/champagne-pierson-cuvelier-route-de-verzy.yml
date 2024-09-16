@@ -1,11 +1,11 @@
 id: 319531125
-type: way
+type: node
 latitude: 49.1008
 longitude: 4.11787
 postcode: "51150"
 city: Louvois
-street: "Route de Verzy"
-housenumber: 4
-phone: "+33 3 26 57 03 72"
+street: Route de Verzy
+housenumber: "4"
+phone: +33 3 26 57 03 72
 opening_hours: ""
-website: "http://pierson-cuvelier.wix.com/champagne"
+website: http://pierson-cuvelier.wix.com/champagne

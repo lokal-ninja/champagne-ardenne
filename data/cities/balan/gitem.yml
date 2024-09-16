@@ -1,11 +1,11 @@
 id: 99944063
-type: way
+type: node
 latitude: 49.68503
 longitude: 4.9718
 postcode: "08200"
 city: Balan
-street: "Avenue Charles de Gaulle"
-housenumber: 151
-phone: "+33 3 24 54 66 17"
+street: Avenue Charles de Gaulle
+housenumber: "151"
+phone: +33 3 24 54 66 17
 opening_hours: ""
-website: "https://balan.gitem.fr/"
+website: https://balan.gitem.fr/

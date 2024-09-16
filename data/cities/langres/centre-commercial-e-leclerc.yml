@@ -1,11 +1,11 @@
 id: 135514582
-type: way
+type: node
 latitude: 47.83159
 longitude: 5.33559
 postcode: "52201"
 city: Langres
-street: "Rue de l'Avenir"
-housenumber: 
-phone: "+33 3 25 87 25 62"
+street: Rue de l'Avenir
+housenumber: ""
+phone: +33 3 25 87 25 62
 opening_hours: ""
 website: ""

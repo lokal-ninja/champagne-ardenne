@@ -4,8 +4,8 @@ latitude: 49.2645
 longitude: 3.96436
 postcode: "51370"
 city: Champigny
-street: "Rue de la Garenne"
-housenumber: 13
-phone: "+33 3 26 86 42 86"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.cave-cqfd.com/"
+street: Rue de la Garenne
+housenumber: "13"
+phone: +33 3 26 86 42 86
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.cave-cqfd.com/

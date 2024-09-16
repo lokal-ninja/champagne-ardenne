@@ -1,11 +1,11 @@
 id: 86581539
-type: way
+type: node
 latitude: 49.21334
 longitude: 4.04454
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Jules Romains"
-housenumber: 3
-phone: "+33 3 26 86 57 90"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.nozarrivages.com/magasin/cormontreuil/"
+street: Rue Jules Romains
+housenumber: "3"
+phone: +33 3 26 86 57 90
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.nozarrivages.com/magasin/cormontreuil/

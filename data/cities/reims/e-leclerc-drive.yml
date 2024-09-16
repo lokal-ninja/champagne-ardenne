@@ -4,8 +4,8 @@ latitude: 49.25521
 longitude: 4.03102
 postcode: "51100"
 city: Reims
-street: "Rue des Élus"
-housenumber: 21
-phone: "+33 3 26 49 64 76"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.leclercdrive.fr/region-grand-est/reims/drive-relais-reims---elus.aspx"
+street: Rue des Élus
+housenumber: "21"
+phone: +33 3 26 49 64 76
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.leclercdrive.fr/region-grand-est/reims/drive-relais-reims---elus.aspx

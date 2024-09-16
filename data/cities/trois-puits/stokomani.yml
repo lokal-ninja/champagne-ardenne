@@ -1,11 +1,11 @@
 id: 193389978
-type: way
+type: node
 latitude: 49.21172
 longitude: 4.04735
 postcode: "51350"
 city: Trois-Puits
-street: "Rue de la Sentelle"
-housenumber: 
-phone: "+33 8 25 89 32 32"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.stokomani.fr/"
+street: Rue de la Sentelle
+housenumber: ""
+phone: +33 8 25 89 32 32
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.stokomani.fr/

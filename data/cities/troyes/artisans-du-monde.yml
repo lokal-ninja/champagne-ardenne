@@ -4,8 +4,8 @@ latitude: 48.29851
 longitude: 4.07656
 postcode: "10000"
 city: Troyes
-street: "Rue Georges Clemenceau"
-housenumber: 26
-phone: "+333 25 46 12 04"
-opening_hours: "Mo 14:30-19:00;Tu-Sa 10:00-19:00"
-website: "http://artisansdumonde-troyes.org"
+street: Rue Georges Clemenceau
+housenumber: "26"
+phone: +333 25 46 12 04
+opening_hours: Mo 14:30-19:00;Tu-Sa 10:00-19:00
+website: http://artisansdumonde-troyes.org

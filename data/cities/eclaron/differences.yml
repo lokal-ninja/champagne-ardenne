@@ -1,11 +1,11 @@
 id: 394178605
-type: way
+type: node
 latitude: 48.59462
 longitude: 4.86324
 postcode: "52290"
 city: Eclaron
-street: "Rue Piece Martinet"
-housenumber: 1
+street: Rue Piece Martinet
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

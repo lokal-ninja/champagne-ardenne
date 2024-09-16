@@ -1,11 +1,11 @@
 id: 228575251
-type: way
+type: node
 latitude: 48.51204
 longitude: 3.74168
 postcode: "10100"
 city: Romilly-sur-Seine
-street: "Rue Gornet Boivin"
-housenumber: 259
+street: Rue Gornet Boivin
+housenumber: "259"
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/romilly-sur-seine/"
+website: https://www.nozarrivages.com/magasin/romilly-sur-seine/

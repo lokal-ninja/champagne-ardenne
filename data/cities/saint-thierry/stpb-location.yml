@@ -1,11 +1,11 @@
 id: 987132980
-type: way
+type: node
 latitude: 49.30749
 longitude: 3.98697
 postcode: "51220"
 city: Saint-Thierry
-street: "D 944"
-housenumber: 4
+street: D 944
+housenumber: "4"
 phone: "+33326031960"
 opening_hours: ""
-website: "https://www.stpb-location.fr/"
+website: https://www.stpb-location.fr/

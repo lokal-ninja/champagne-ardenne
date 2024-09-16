@@ -1,11 +1,11 @@
 id: 86602257
-type: way
+type: node
 latitude: 49.25424
 longitude: 3.97593
 postcode: "51430"
 city: Tinqueux
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

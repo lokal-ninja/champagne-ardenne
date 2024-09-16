@@ -4,8 +4,8 @@ latitude: 48.29429
 longitude: 4.07359
 postcode: "10000"
 city: Troyes
-street: "Rue du Général Saussier"
-housenumber: 47
-phone: "+339 83 25 00 57"
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00"
-website: "http://www.auxsinguliers.com"
+street: Rue du Général Saussier
+housenumber: "47"
+phone: +339 83 25 00 57
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00
+website: http://www.auxsinguliers.com

@@ -1,11 +1,11 @@
 id: 92323563
-type: way
+type: node
 latitude: 48.27255
 longitude: 4.05596
 postcode: "10120"
 city: Saint-André-les-Vergers
-street: "Route d'Auxerre"
-housenumber: 73
-phone: "+33 3 53 50 00 25"
-opening_hours: "Mo-Su 06:00-20:00"
+street: Route d'Auxerre
+housenumber: "73"
+phone: +33 3 53 50 00 25
+opening_hours: Mo-Su 06:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.25073
 longitude: 4.03516
 postcode: "51100"
 city: Reims
-street: "Rue Gambetta"
-housenumber: 2
-phone: "+33 3 26 25 23 20"
-opening_hours: "Tu-Sa 10:00-14:00,15:00-19:00"
-website: "http://annas-latableamoureuse.com/-La-Boutique-"
+street: Rue Gambetta
+housenumber: "2"
+phone: +33 3 26 25 23 20
+opening_hours: Tu-Sa 10:00-14:00,15:00-19:00
+website: http://annas-latableamoureuse.com/-La-Boutique-

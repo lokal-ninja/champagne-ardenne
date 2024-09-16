@@ -4,8 +4,8 @@ latitude: 48.09811
 longitude: 5.15601
 postcode: "52000"
 city: Chaumont
-street: "Rue Henri Matisse"
-housenumber: 1
-phone: "+33 3 25 03 62 48"
-opening_hours: "Tu-Sa 09:00-12:00, Tu-Fr 14:00-19:00, Sa 14:00-19:00"
-website: "https://www.merveilles-de-la-nature.fr/"
+street: Rue Henri Matisse
+housenumber: "1"
+phone: +33 3 25 03 62 48
+opening_hours: Tu-Sa 09:00-12:00, Tu-Fr 14:00-19:00, Sa 14:00-19:00
+website: https://www.merveilles-de-la-nature.fr/

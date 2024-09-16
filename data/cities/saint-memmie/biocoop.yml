@@ -1,11 +1,11 @@
 id: 521533439
-type: way
+type: node
 latitude: 48.94481
 longitude: 4.38996
 postcode: "51000"
 city: Saint-Memmie
-street: "Rue des Catalaunes"
-housenumber: 
-phone: "+33 3 26 65 10 64"
-opening_hours: "Mo 14:00-19:30; Tu-Sa 09:00-19:30"
-website: "https://www.biocoop-cec.com/"
+street: Rue des Catalaunes
+housenumber: ""
+phone: +33 3 26 65 10 64
+opening_hours: Mo 14:00-19:30; Tu-Sa 09:00-19:30
+website: https://www.biocoop-cec.com/

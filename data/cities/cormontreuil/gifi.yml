@@ -1,11 +1,11 @@
 id: 86582530
-type: way
+type: node
 latitude: 49.21322
 longitude: 4.04484
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Jules Romains"
-housenumber: 
-phone: "+33 3 26 86 13 15"
-opening_hours: "Mo-Sa 09:30-19:00; Su 14:00-19:00"
-website: "https://magasins.gifi.fr/"
+street: Rue Jules Romains
+housenumber: ""
+phone: +33 3 26 86 13 15
+opening_hours: Mo-Sa 09:30-19:00; Su 14:00-19:00
+website: https://magasins.gifi.fr/

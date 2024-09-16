@@ -1,11 +1,11 @@
 id: 63714872
-type: way
+type: node
 latitude: 47.85927
 longitude: 5.33147
 postcode: "52200"
 city: Langres
-street: "Rue des Chavannes"
-housenumber: 
+street: Rue des Chavannes
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://www.lafriandine-langres.fr/"
+website: http://www.lafriandine-langres.fr/

@@ -1,11 +1,11 @@
 id: 659235464
-type: way
+type: node
 latitude: 48.94376
 longitude: 4.38813
 postcode: "51000"
 city: Châlons-en-Champagne
-street: "Avenue du Président Roosevelt"
-housenumber: 80
+street: Avenue du Président Roosevelt
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.joyeusesfees.fr/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.joyeusesfees.fr/

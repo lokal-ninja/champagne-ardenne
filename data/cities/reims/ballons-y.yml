@@ -1,11 +1,11 @@
 id: 662650939
-type: way
+type: node
 latitude: 49.26217
 longitude: 4.02884
 postcode: "51100"
 city: Reims
-street: "Avenue de Laon"
-housenumber: 11
+street: Avenue de Laon
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

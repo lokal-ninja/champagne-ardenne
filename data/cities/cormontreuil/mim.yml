@@ -1,11 +1,11 @@
 id: 436004198
-type: way
+type: node
 latitude: 49.21417
 longitude: 4.04442
 postcode: "51350"
 city: CORMONTREUIL
-street: "Rue des Laps"
-housenumber: 13
-phone: "+33 3 26 87 66 68"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.mim.fr/"
+street: Rue des Laps
+housenumber: "13"
+phone: +33 3 26 87 66 68
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.mim.fr/

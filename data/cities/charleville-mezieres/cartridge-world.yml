@@ -4,8 +4,8 @@ latitude: 49.76356
 longitude: 4.7191
 postcode: "08000"
 city: Charleville-Mézières
-street: "Avenue d'Arches"
-housenumber: 39
-phone: "+33 3 24 58 55 55"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-18:00; Sa,Su off"
+street: Avenue d'Arches
+housenumber: "39"
+phone: +33 3 24 58 55 55
+opening_hours: Mo-Fr 09:00-12:30,14:00-18:00; Sa,Su off
 website: ""

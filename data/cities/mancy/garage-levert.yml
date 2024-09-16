@@ -4,8 +4,8 @@ latitude: 48.98304
 longitude: 3.93438
 postcode: "51530"
 city: Mancy
-street: "Grande Rue"
-housenumber: 8
-phone: "+33 3 26 59 73 36"
-opening_hours: "Mo-Fr  08:00 -12:00,14:00-18:00"
+street: Grande Rue
+housenumber: "8"
+phone: +33 3 26 59 73 36
+opening_hours: Mo-Fr  08:00 -12:00,14:00-18:00
 website: ""

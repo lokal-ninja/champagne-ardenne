@@ -1,11 +1,11 @@
 id: 537846147
-type: way
+type: node
 latitude: 49.88591
 longitude: 4.7382
 postcode: "08800"
 city: Monthermé
-street: "Rue Pasteur"
-housenumber: 22
+street: Rue Pasteur
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

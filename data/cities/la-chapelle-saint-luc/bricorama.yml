@@ -1,11 +1,11 @@
 id: 1217063750
-type: way
+type: node
 latitude: 48.30494
 longitude: 4.02752
 postcode: "10600"
 city: La Chapelle-Saint-Luc
-street: "Boulevard de l'Ouest"
-housenumber: 7
+street: Boulevard de l'Ouest
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

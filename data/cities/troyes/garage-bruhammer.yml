@@ -1,11 +1,11 @@
 id: 73136165
-type: way
+type: node
 latitude: 48.30882
 longitude: 4.08793
 postcode: "10000"
 city: Troyes
-street: "Rue Chapron"
-housenumber: 4
-phone: "+33 3 25 81 17 97"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-17:00"
-website: "https://www.bruhammer.com/"
+street: Rue Chapron
+housenumber: "4"
+phone: +33 3 25 81 17 97
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-17:00
+website: https://www.bruhammer.com/

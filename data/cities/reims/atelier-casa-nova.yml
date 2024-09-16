@@ -4,8 +4,8 @@ latitude: 49.25787
 longitude: 4.02956
 postcode: "51100"
 city: Reims
-street: "Cours Jean-Baptiste Langlet"
-housenumber: 50
-phone: "+33 3 26 47 62 20"
-opening_hours: "Tu-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-12:00,14:00-18:00"
-website: "https://decoration-casanova-reims.com"
+street: Cours Jean-Baptiste Langlet
+housenumber: "50"
+phone: +33 3 26 47 62 20
+opening_hours: Tu-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-12:00,14:00-18:00
+website: https://decoration-casanova-reims.com

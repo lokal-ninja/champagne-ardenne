@@ -1,11 +1,11 @@
 id: 655419552
-type: way
+type: node
 latitude: 49.2853
 longitude: 4.0172
 postcode: "51100"
 city: Reims
-street: "Avenue Benoît Frachon"
-housenumber: 2
+street: Avenue Benoît Frachon
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

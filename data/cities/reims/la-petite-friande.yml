@@ -4,8 +4,8 @@ latitude: 49.2553
 longitude: 4.03127
 postcode: "51100"
 city: Reims
-street: "Cours Jean-Baptiste Langlet"
-housenumber: 15
-phone: "+33 3 26 47 50 44"
-opening_hours: "Tu-Sa 10:00-19:00; Su,PH off; Mo 10:00-12:00,14:00-19:00"
-website: "https://www.lapetitefriande.fr/"
+street: Cours Jean-Baptiste Langlet
+housenumber: "15"
+phone: +33 3 26 47 50 44
+opening_hours: Tu-Sa 10:00-19:00; Su,PH off; Mo 10:00-12:00,14:00-19:00
+website: https://www.lapetitefriande.fr/

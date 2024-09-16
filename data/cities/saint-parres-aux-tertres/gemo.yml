@@ -4,8 +4,9 @@ latitude: 48.29426
 longitude: 4.13099
 postcode: "10410"
 city: Saint-Parres-aux-Tertres
-street: "Parc Commercial Be Green, Rue de l'avenir"
-housenumber: 
-phone: "03 25 45 48 00"
-opening_hours: "lundi 09:30-19:00 mardi 09:30-19:00  mercredi 09:30-19:00  jeudi 09:30-19:00  vendredi 09:30-19:00  samedi 09:30-19:00  dimanche Fermé"
-website: "https://www.gemo.fr/magasin/GEMO_SAINT_PARRES_AUX_TERTRES_chaussures_et_vetements/GEMO_13722"
+street: Parc Commercial Be Green, Rue de l'avenir
+housenumber: ""
+phone: 03 25 45 48 00
+opening_hours: lundi 09:30-19:00 mardi 09:30-19:00  mercredi 09:30-19:00  jeudi 09:30-19:00  vendredi
+    09:30-19:00  samedi 09:30-19:00  dimanche Fermé
+website: https://www.gemo.fr/magasin/GEMO_SAINT_PARRES_AUX_TERTRES_chaussures_et_vetements/GEMO_13722

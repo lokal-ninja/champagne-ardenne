@@ -4,8 +4,8 @@ latitude: 49.30737
 longitude: 3.68067
 postcode: "51170"
 city: Fismes
-street: "Rue des Bouchers"
-housenumber: 3
-phone: "+33 3 26 08 13 25"
-opening_hours: "Tu-Fr 09:15-12:00,14:15-18:30; Sa 09:15-12:00,14:15-18:00"
+street: Rue des Bouchers
+housenumber: "3"
+phone: +33 3 26 08 13 25
+opening_hours: Tu-Fr 09:15-12:00,14:15-18:30; Sa 09:15-12:00,14:15-18:00
 website: ""

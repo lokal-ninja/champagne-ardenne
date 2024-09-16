@@ -1,11 +1,11 @@
 id: 399037235
-type: way
+type: node
 latitude: 49.21216
 longitude: 4.04255
 postcode: "51350"
 city: Cormontreuil
-street: "Rue Benjamin Peret"
-housenumber: 
-phone: "+33 3 26 61 26 00"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://toysrus.fr/"
+street: Rue Benjamin Peret
+housenumber: ""
+phone: +33 3 26 61 26 00
+opening_hours: Mo-Sa 10:00-19:30
+website: https://toysrus.fr/

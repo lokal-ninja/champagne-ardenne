@@ -4,8 +4,8 @@ latitude: 48.1016
 longitude: 5.15252
 postcode: "52000"
 city: Chaumont
-street: "Boulevard du Maréchal de Lattre de Tassigny"
-housenumber: 19
-phone: "+33 3 25 30 29 29"
-opening_hours: "Mo-Sa 08:00-12:00, Mo-Fr 14:00-18:00"
-website: "https://www.midas.fr/"
+street: Boulevard du Maréchal de Lattre de Tassigny
+housenumber: "19"
+phone: +33 3 25 30 29 29
+opening_hours: Mo-Sa 08:00-12:00, Mo-Fr 14:00-18:00
+website: https://www.midas.fr/

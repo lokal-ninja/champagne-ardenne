@@ -4,8 +4,8 @@ latitude: 48.2956
 longitude: 4.07263
 postcode: "10000"
 city: Troyes
-street: "Rue Émile Zola"
-housenumber: 124
-phone: "+333 25 41 03 98"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.unjourailleurs.com/fr/"
+street: Rue Émile Zola
+housenumber: "124"
+phone: +333 25 41 03 98
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.unjourailleurs.com/fr/

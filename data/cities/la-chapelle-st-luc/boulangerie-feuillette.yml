@@ -4,8 +4,8 @@ latitude: 48.30331
 longitude: 4.0289
 postcode: "10600"
 city: La Chapelle St Luc
-street: "rue du Général Sarrail"
-housenumber: 130
-phone: "+33 3 25 72 63 15"
-opening_hours: "08:30-20:00"
+street: rue du Général Sarrail
+housenumber: "130"
+phone: +33 3 25 72 63 15
+opening_hours: 08:30-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.2929
 longitude: 4.07523
 postcode: "10000"
 city: Troyes
-street: "Boulevard du 14 Juillet"
-housenumber: 57
-phone: "+33 3 25 42 84 22"
+street: Boulevard du 14 Juillet
+housenumber: "57"
+phone: +33 3 25 42 84 22
 opening_hours: ""
-website: "https://centralspa.fr/"
+website: https://centralspa.fr/

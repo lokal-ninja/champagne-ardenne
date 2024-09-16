@@ -4,8 +4,8 @@ latitude: 48.29213
 longitude: 4.07466
 postcode: "10000"
 city: Troyes
-street: "Avenue Pierre Brossolette"
-housenumber: 5
+street: Avenue Pierre Brossolette
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:15-19:15, Su 07:00-18:00"
-website: "https://patisserieduparcq.fr/"
+opening_hours: Mo-Sa 07:15-19:15, Su 07:00-18:00
+website: https://patisserieduparcq.fr/
