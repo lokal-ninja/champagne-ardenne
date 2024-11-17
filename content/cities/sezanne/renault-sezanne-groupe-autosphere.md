@@ -1,5 +1,5 @@
 ---
-title: "Renault Sézanne - Groupe Autosphere"
+title: "Renault Sezanne - Groupe Autosphere"
 url: /sezanne/renault-sezanne-groupe-autosphere/
 shop: voiture
 ---
