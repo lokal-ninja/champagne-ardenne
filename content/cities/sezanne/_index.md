@@ -1,6 +1,6 @@
 ---
 title: Sézanne
 url: /sezanne/
-latitude: 48.717
-longitude: 3.724
+latitude: 48.711
+longitude: 3.73
 ---
