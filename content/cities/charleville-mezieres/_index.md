@@ -1,6 +1,6 @@
 ---
 title: Charleville-Mézières
 url: /charleville-mezieres/
-latitude: 49.772
-longitude: 4.72
+latitude: 49.771
+longitude: 4.719
 ---
