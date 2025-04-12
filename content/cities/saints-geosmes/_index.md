@@ -1,6 +1,6 @@
 ---
 title: Saints-Geosmes
 url: /saints-geosmes/
-latitude: 47.831
-longitude: 5.337
+latitude: 47.838
+longitude: 5.338
 ---
