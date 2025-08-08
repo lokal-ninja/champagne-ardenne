@@ -1,6 +1,6 @@
 ---
 title: Warcq
 url: /warcq/
-latitude: 49.781
-longitude: 4.692
+latitude: 49.779
+longitude: 4.695
 ---
