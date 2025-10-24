@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
-url: /troyes/selectour-boulevard-du-14-juillet/
+url: /troyes/selectour-rue-de-la-republique/
 shop: agence de voyage
 ---
