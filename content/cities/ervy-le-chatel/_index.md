@@ -1,6 +1,6 @@
 ---
 title: Ervy-le-Châtel
 url: /ervy-le-chatel/
-latitude: 48.041
-longitude: 3.91
+latitude: 48.047
+longitude: 3.925
 ---
