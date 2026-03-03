@@ -1,6 +1,6 @@
 ---
 title: Aix-en-Othe
 url: /aix-en-othe/
-latitude: 48.216
-longitude: 3.741
+latitude: 48.222
+longitude: 3.732
 ---
