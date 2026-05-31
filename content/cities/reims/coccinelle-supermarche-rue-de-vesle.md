@@ -1,5 +1,5 @@
 ---
 title: "Coccinelle Supermarché"
-url: /reims/coccinelle-supermarche-rue-jules-guichard/
+url: /reims/coccinelle-supermarche-rue-de-vesle/
 shop: supermarché
 ---
