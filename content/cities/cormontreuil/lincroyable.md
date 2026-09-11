@@ -1,5 +1,5 @@
 ---
-title: "L'incroyable"
+title: "L'Incroyable"
 url: /cormontreuil/lincroyable/
 shop: décoration intérieure
 ---

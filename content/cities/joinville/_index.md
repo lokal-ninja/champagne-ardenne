@@ -1,6 +1,6 @@
 ---
-title: JOINVILLE
+title: Joinville
 url: /joinville/
-latitude: 48.445
-longitude: 5.153
+latitude: 48.442
+longitude: 5.139
 ---
