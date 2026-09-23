@@ -7,5 +7,6 @@ city: Reims
 street: Rue Léna Bernstein
 housenumber: "13"
 phone: "+33326877926"
-opening_hours: Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; PH off
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00; Su off;
+    PH off
 website: https://www.hyundai-hess-reims.fr/page/services/solutions-entreprises
